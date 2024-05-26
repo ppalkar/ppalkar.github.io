@@ -7,7 +7,6 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 profile:
   align: right
   image: prof_pic_color.jpg
-  imaged: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>VA-11 Block 5A</p>
