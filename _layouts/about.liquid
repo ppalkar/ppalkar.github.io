@@ -20,9 +20,9 @@ layout: default
         {% if page.profile.image %}
           {% assign profile_image_path = page.profile.image | prepend: 'assets/img/' %}
           {% if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) %}
-              {% if page.profile.imaged %}
-                  {% assign profile_image_path = page.profile.imaged | prepend: 'assets/img/' %}
-              {% endif %}
+            {% if page.profile.imaged %}
+              {% assign profile_image_path = page.profile.imaged | prepend: 'assets/img/' %}
+            {% endif %}
           {% endif %}
           {% if page.profile.image_circular %}
             {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
