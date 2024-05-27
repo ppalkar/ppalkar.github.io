@@ -5,7 +5,7 @@ title: teaching
 description: Courses taught so far. 
 nav: true
 nav_order: 6
-display_categories: [work, fun]
+display_categories: [Optimization, Artifical Intelligence and Machine Learning, Upcoming]
 horizontal: false
 ---
 <!-- pages/teaching.md -->
