@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
+title: Special Topics in Industrial Engineering and Operations Research
+description: Markov Decision Processes and Reinforcement Learning; cotaught with Prof. Amber Srivastava
 img:
 importance: 4
-category: fun
+category: Upcoming
 ---
 
 Every project has a beautiful feature showcase page.

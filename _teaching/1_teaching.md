@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
+title: Introduction to Operations Research (MCL261)
 description: with background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: Optimization
 related_publications: true
 ---
 

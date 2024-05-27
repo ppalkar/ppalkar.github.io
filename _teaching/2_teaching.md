@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Artificial Intelligence and Machine Learning
+description: co-taught with Prof. Amber Srivastava and Prof. Shaurya Shriyam
 img: assets/img/3.jpg
 importance: 2
-category: work
+category: Artificial Intelligence and Machine Learning
 giscus_comments: true
 ---
 

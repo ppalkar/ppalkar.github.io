@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Artificial Intelligence and Machine Learning for Manufacturing Management
+description: co-taught with Prof. Shaurya Shriyam and Prof. Sagar Sarkar
 img:
 importance: 3
 category: fun
