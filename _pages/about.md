@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor, Department of Mechanical Engineering, Indian Institute of Technology Delhi, New Delhi, India. 
+subtitle: Assistant Professor, <a href="http://mech.iitd.ac.in/">Department of Mechanical Engineering</a>, Indian Institute of Technology Delhi, New Delhi, India. 
 <!--subtitle: Assistant Professor, Department of Mechanical Engineering,<a href='http://www.iitd.ac.in'>Indian Institute of Technology Delhi</a>, New Delhi, India. -->
 
 profile:
