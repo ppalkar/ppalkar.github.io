@@ -1,6 +1,8 @@
 github_users:
   - ppalkar
 
+repo_description_lines_max: 2
+
 github_repos:
   - coin-or/minotaur
   - ArbeitsgruppeTobiasHarks/electric-vehicles
