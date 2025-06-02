@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2024-05-25 07:59:00-0400
+date: 2025-04-10 07:59:00-0400
 inline: true
 related_posts: false
 ---
 
-Creating my new webpage here! :sparkles: :smile:
+Our paper titled "Dynamic Traffic Assignment for Electric Vehicles" (joint work with Lukas Graf and Tobias Harks) is finally published in Transportation Research Part B :sparkles: :smile:
