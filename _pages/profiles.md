@@ -14,7 +14,7 @@ profiles:
     content: kishan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     # <p>555 your office number</p>
+     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
      # <p>123 your address street</p>
      # <p>Your City, State 12345</p>
   - align: left
@@ -22,7 +22,7 @@ profiles:
     content: manoj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     # <p>555 your office number</p>
+     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi</p>
      # <p>123 your address street</p>
      # <p>Your City, State 12345</p>
 ---
