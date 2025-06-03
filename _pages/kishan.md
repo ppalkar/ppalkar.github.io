@@ -6,4 +6,4 @@ Research Scholar, <a href='https://uqiitd.org'>University of Queensland - Indian
 
 <b>Research Interests</b>: Mathematical Optimization, Machine Learning, Reinforcement Learning
 
-<b>Academic Background</b>: M.Sc. Data Science, B.Sc. Computer Science
+<b>Academic Background</b>: M.Sc. Data Science (Mathematics and Computer Science, IIT BHU)
