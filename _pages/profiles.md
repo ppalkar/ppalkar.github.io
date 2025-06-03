@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: students
-description: Members of the Optimization and Learning group
+title: Students
+description: Members of the Optimization and Learning group @ IEOR Lab, IIT Delhi
 nav: true
 nav_order: 7
 
@@ -14,17 +14,29 @@ profiles:
     content: kishan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
+     <p> qiz248205@uqidar.iitd.ac.in</p>
   - align: left
     image: manoj.jpg
     content: manoj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi</p>
+     <p>qiz248205@iitd.ac.in</p>
   - align: right
     image: apurv.jpg
     content: apurv.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
+     <p> apurvnegi1998@gmail.com</p>
+  - align: left
+    image: avni.jpg
+    content: avni.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mez248604@mech.iitd.ac.in</p>
+  - align: right
+    image: vivek.jpg
+    content: vivek.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mez238292@iitd.ac.in</p>
 ---
