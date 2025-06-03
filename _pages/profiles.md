@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: students
-description: members of the lab or group
+description: Members of the Optimization and Learning group
 nav: true
 nav_order: 7
 
@@ -14,15 +14,17 @@ profiles:
     content: kishan.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     # <p>555 your office number</p>
-     # <p>123 your address street</p>
-     # <p>Your City, State 12345</p>
+     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
   - align: left
     image: manoj.jpg
     content: manoj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     # <p>555 your office number</p>
-     # <p>123 your address street</p>
-     # <p>Your City, State 12345</p>
+     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi</p>
+  - align: right
+    image: apurv.jpg
+    content: apurv.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
 ---
