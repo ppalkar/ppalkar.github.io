@@ -28,13 +28,13 @@ profiles:
     more_info: >
      <p> apurvnegi1998@gmail.com</p>
   - align: left
-    image: avni.jpg
+    image: apurv.jpg
     content: avni.md
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>mez248604@mech.iitd.ac.in</p>
   - align: right
-    image: vivek.jpg
+    image: vivek.jpeg
     content: vivek.md
     image_circular: false # crops the image to make it circular
     more_info: >
