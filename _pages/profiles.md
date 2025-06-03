@@ -12,19 +12,19 @@ profiles:
   - align: right
     image: kishan.jpg
     content: kishan.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
      <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
   - align: left
     image: manoj.jpg
     content: manoj.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
      <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi</p>
   - align: right
     image: apurv.jpg
     content: apurv.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
      <p>IEOR Lab, Vishwakarma Bhawan, IIT Delhi </p>
 ---
