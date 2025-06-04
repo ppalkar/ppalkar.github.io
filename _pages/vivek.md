@@ -2,7 +2,7 @@
 
 Research Scholar, IEOR, IIT Delhi (Part Time) and General Manager, CRIS, Indian Railways 
 
-<b>Thesis topic</b>:  Mathematical models and approaches in Indian Railways
+<b>Thesis topic</b>:  Mathematical models and approaches for optimization problems in Indian Railways
 
 <b>Research Interests</b>: Integer Programming, Mathematical modelling, Supply Chain Management
 
