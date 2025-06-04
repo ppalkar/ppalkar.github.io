@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor, <a href="http://mech.iitd.ac.in/">Department of Mechanical Engineering</a>, Indian Institute of Technology Delhi, New Delhi, India. 
+#subtitle: Assistant Professor, <a href="http://mech.iitd.ac.in/">Department of Mechanical Engineering</a>, Indian Institute of Technology Delhi, New Delhi, India. 
 #subtitle: Assistant Professor, Department of Mechanical Engineering, Indian Institute of Technology Delhi, New Delhi, India. 
 <!--subtitle: Assistant Professor, Department of Mechanical Engineering,<a href='http://www.iitd.ac.in'>Indian Institute of Technology Delhi</a>, New Delhi, India. -->
 
@@ -14,17 +14,17 @@ profile:
   more_info: >
     <p>VA-11 Block 5A</p>
     <p>IIT Delhi, Hauz Khas</p>
-    <p>New Delhi, Delhi 110016</p>
+    <p>New Delhi, Delhi 110016, India</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am an Assistant Professor in the Industrial Engineering and Operations Research group. I work on theory, algorithms, software and applications of Optimization. I also work on Algorithmic Game Theory and AI/ML.
+I am an Assistant Professor in the Industrial Engineering and Operations Research (IEOR) group in the <a href="http://mech.iitd.ac.in/">Department of Mechanical Engineering</a> at <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>. I work on theory, algorithms, software, and applications of Optimization. I also work on Algorithmic Game Theory and AI/ML.
 
 I am an Assistant Professor in the Industrial Engineering and Operations Research (IEOR) group in the Department of Mechanical Engineering at IIT Delhi (since December 2022). 
-My Master's and PhD thesis involved modelling and solving Discrete Optimization problems, in particular, using Parallel Computing Techniques to Accelerate Mixed Integer Nonlinear Programming Algorithms. I was a Postdoctoral Researcher at the University of Augsburg in Germany for about two years after my PhD, where I worked on the Computation of Nash Equilibrium in Dynamic Traffic Assignment and other similar problems in Algorithmic Game Theory.
+My Master's and PhD theses involved modelling and solving Discrete Optimization problems, in particular, using Parallel Computing Techniques to Accelerate Mixed Integer Nonlinear Programming Algorithms. I was a Postdoctoral Researcher at the University of Augsburg in Germany for about two years after my PhD, where I worked on the Computation of Nash Equilibrium in Dynamic Traffic Assignment and other similar problems in Algorithmic Game Theory.
 
 Earlier, I worked at Tata Steel for about 3.5 years after my M.Tech., on various Process Modelling and Optimization problems, particularly Production Planning, Transportation, Machine Scheduling, and Cutting-and-Packing problems in the long products segment of steel.
 
