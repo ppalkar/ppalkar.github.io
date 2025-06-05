@@ -28,7 +28,7 @@ profiles:
     more_info: >
      <p> apurvnegi1998@gmail.com</p>
   - align: left
-    image: apurv.jpg
+    image: avni.jpeg
     content: avni.md
     image_circular: false # crops the image to make it circular
     more_info: >
