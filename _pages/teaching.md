@@ -7,11 +7,11 @@ nav: true
 nav_order: 6
 horizontal: false
 ---
-<h4>2025-2026</h4>
+<h3>2025-2026</h3>
 
 - *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I (upcoming)
 
-<h4>2024-2025</h4>
+<h3>2024-25</h3>
 
 - *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I (upcoming)
 
@@ -25,7 +25,7 @@ horizontal: false
 
 - *Introduction to Operations Research (MCL261)*, IIT Delhi, Sem. I
 
-<h4>2023-2024</h4>
+<h3>2023-24</h3>
 
 - *Integer Programming (MCL865, Advanced Operations Research)*, IIT Delhi, Sem. II
 
@@ -33,7 +33,7 @@ horizontal: false
 
 - *Introduction to Operations Research (MCL261)*, IIT Delhi, Sem. I
 
-<h4>2022-2023</h4>
+<h3>2022-23</h3>
 
 - *Advanced Operations Research (MCL865)* with Prof. Varun Ramamohan, IIT Delhi, Sem. II
 
