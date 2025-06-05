@@ -5,60 +5,37 @@ title: Teaching
 description: Courses taught so far. 
 nav: true
 nav_order: 6
-display_categories: [Optimization, Artifical Intelligence and Machine Learning, Upcoming]
 horizontal: false
 ---
-<!-- pages/teaching.md -->
-<div class="teaching">
-{% if site.enable_teaching_categories and page.display_categories %}
-  <!-- Display categorized teaching -->
-  {% for category in page.display_categories %}
-  <a id="{{ category }}" href=".#{{ category }}">
-    <h2 class="category">{{ category }}</h2>
-  </a>
-  {% assign categorized_teaching = site.teaching | where: "category", category %}
-  {% assign sorted_teaching = categorized_teaching | sort: "importance" %}
-  <!-- Generate cards for each course -->
-  {% if page.horizontal %}
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teaching %}
-      {% include teaching_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for teaching in sorted_teaching %}
-      {% include teaching.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-  {% endfor %}
+<h4>2025-2026</h4>
 
-{% else %}
+- *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I (upcoming)
 
-<!-- Display teaching without categories -->
+<h4>2024-2025</h4>
 
-{% assign sorted_teaching = site.teaching | sort: "importance" %}
+- *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I (upcoming)
 
-  <!-- Generate cards for each course -->
+- *Machine Learning for Operations Research (MCL775, Special Topics in IE)* with Prof. Amber Srivastava, IIT Delhi, Sem. II
 
-{% if page.horizontal %}
+- *Optimization (MCL758)* with Prof. Amber Srivastava, IIT Delhi, Sem. II
 
-  <div class="container">
-    <div class="row row-cols-1 row-cols-md-2">
-    {% for teaching in sorted_teaching %}
-      {% include teaching_horizontal.liquid %}
-    {% endfor %}
-    </div>
-  </div>
-  {% else %}
-  <div class="row row-cols-1 row-cols-md-3">
-    {% for teaching in sorted_teaching %}
-      {% include teaching.liquid %}
-    {% endfor %}
-  </div>
-  {% endif %}
-{% endif %}
-</div>
+- *Industrial Engineering Laboratory - I (MCP261)* with Prof. Amber Srivastava, IIT Delhi, Sem. II
+
+- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Amber Srivastava, Sem. II
+
+- *Introduction to Operations Research (MCL261)*, IIT Delhi, Sem. I
+
+<h4>2023-2024</h4>
+
+- *Integer Programming (MCL865, Advanced Operations Research)*, IIT Delhi, Sem. II
+
+- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Amber Srivastava and Prof. Shaurya Shriyam, Sem. II
+
+- *Introduction to Operations Research (MCL261)*, IIT Delhi, Sem. I
+
+<h4>2022-2023</h4>
+
+- *Advanced Operations Research (MCL865)* with Prof. Varun Ramamohan, IIT Delhi, Sem. II
+
+- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Sagar Sarkar and Prof. Shaurya Shriyam
+
