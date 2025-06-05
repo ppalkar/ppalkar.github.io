@@ -9,7 +9,7 @@ nav_order: 3
 importance: 2
 ---
 
-<h2 class="year">{{2021-2025}}</h2>
+<h2>2021-2025</h2>
 
 - *Strategies for Optimizing Resources in Resource Allocation and Management*, **Faculty Development Program, IIIT Jabalpur (online), Feb. 25, 2025.**
 
