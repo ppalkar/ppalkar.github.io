@@ -9,8 +9,12 @@ nav_order: 3
 importance: 2
 ---
 
-<h2>2021-2025</h2>
+<h2 class="year">{{2025}}</h2>
     - *Strategies for Optimizing Resources in Resource Allocation and Management*,  **Faculty Development Program, IIIT Jabalpur (online), Feb. 25, 2025.**
+<h2 class="year">{{2024}}</h2>
+
+- 2024/08/27: Contributed talk on *Estimation of spatio-temporal extremes via generative neural networks* ([preprint here](https://arxiv.org/abs/2407.08668)) at **COMPSTAT 2024 (Gießen, Germany)**.
+
 
     - *Mathematical Programming Formulations for Computing Nash Equilibrium of Stochastic Games*, **Tenth Indian Control Conference (ICC-10), IISER Bhopal, India, Dec. 12, 2024.**
 
