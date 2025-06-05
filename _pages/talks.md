@@ -9,7 +9,7 @@ nav_order: 3
 importance: 2
 ---
 
-<h2>2021-2025</h2>
+<h3>2021-2025</h3>
 
 - *Strategies for Optimizing Resources in Resource Allocation and Management*, **Faculty Development Program, IIIT Jabalpur (online), Feb. 25, 2025.**
 
@@ -25,7 +25,7 @@ importance: 2
 
 - *Linearization and Parallelization Schemes for Convex Mixed-Integer Nonlinear Optimization*, **31rst European Conference on Operational Research (EURO 2021), University of West Attica, Athens, Greece, 11 - 14 July, 2021.**
 
-<h2 class="year">{{2016-2020}}</h2>
+<h3>2016-2020</h3>
 
 - *Accelerating LP, NLP, and MILP Based Algorithms for Convex MINLPs using Parallelization Schemes*, **52nd Annual Convention of ORSI & International Conference, IIM Ahmedabad, India, December 15 - 18, 2019.**
 
@@ -41,7 +41,7 @@ importance: 2
 
 - *A parallel branch-and-bound framework for solving convex integer optimization problems*, **52nd Annual Convention of ORSI & International Conference, New Delhi, India, 12th Dec, 2016.**
 
-<h2 class="year">{{2011-2015}}</h2>
+<h3>2011-2015</h3>
 
 - *Centralized Optimization Suite to handle end-to-end operations of Cut and Bend centres of Tata Steel and its Associates*, **Operating Committee Meeting on IT and Automation,  Jamshedpur, India, 2013.**
 
