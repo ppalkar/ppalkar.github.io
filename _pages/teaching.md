@@ -37,3 +37,13 @@ horizontal: false
 
 - *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Shaurya Shriyam and Prof. Sagar Sarkar
 
+<h1> Workshops/Special Modules</h1>
+
+- Conducted a *Continuing Education Program (CEP)* course for 50 officers from *Centre for Railway Information Systems (CRIS)* with Amber Srivastava and Shaurya Shriyam at **IIT Delhi, March 06-12, 2024**.
+
+- Conducted a *preconference workshop* on *Solving Mixed-Integer Nonlinear Optimization Problems with MINOTAUR* jointly with Meenarli Sharma, Mustafa Vora and Prof. Ashutosh Mahajan in **52nd Annual Convention of ORSI & International Conference, IIM Ahmedabad, India, December 15, 2019.**
+
+- Conducted a *preconference workshop* on *Mixed-integer nonlinear programming using MINOTAUR* with Meenarli Sharma and Prof. Ashutosh Mahajan in **51st Annual Convention of ORSI & International Conference, IIT Bombay, India, December 16, 2018.**
+
+
+
