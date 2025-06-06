@@ -37,7 +37,7 @@ horizontal: false
 
 - *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Shaurya Shriyam and Prof. Sagar Sarkar
 
-<h1> Workshops/Special Modules</h1>
+<h2> Workshops/Special Modules</h2>
 
 - Conducted a *Continuing Education Program (CEP)* course for 50 officers from *Centre for Railway Information Systems (CRIS)* with Amber Srivastava and Shaurya Shriyam at **IIT Delhi, March 06-12, 2024**.
 
