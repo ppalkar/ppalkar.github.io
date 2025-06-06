@@ -1,157 +1,59 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Prashant Palkar",
+    "label": "Assistant Professor",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "ppalkar@iitd.ac.in",
+    "phone": "(011) 2659 1127",
+    "url": "https://ppalkar.github.io/al-folio/",
+    "summary": "I am a faculty in the IEOR group in the Department of Mechanical Engineering at IIT Delhi. I work on theory, algorithms, software and applications of Operations Research.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "VA-11, Block 5A",
+      "postalCode": "IIT Delhi",
+      "city": "New Delhi",
+      "countryCode": "IN",
+      "region": "Delhi"
     },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Indian Institute of Technology Delhi",
+      "position": "Assistant Professor, IEOR, Department of Mechanical Engineering",
+      "url": "https://ppalkar.github.io",
+      "startDate": "2022-12-01",
+      "endDate": "",
+      "summary": "Working in the areas of Integer Programming, Machine Learning and Algorithmic Game Theory currently at IEOR, ME, IIT Delhi.",
+      "highlights": ["Optimization and AI/ML"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Indian Institute of Technology Bombay",
+      "location": "Mumbai, India",
+      "url": "https://www.ieor.iitb.ac.in/",
+      "area": "Mixed-Integer Nonlinear Optimization",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
-  ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "startDate": "2013-07-12",
+      "endDate": "2021-07-20"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
-  ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
-  "skills": [
-    {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
+      "institution": "Indian Institute of Technology Bombay",
+      "location": "Mumbai, India",
+      "url": "https://www.ieor.iitb.ac.in/",
+      "area": "Industrial Engineering and Operations Research",
+      "studyType": "PhD",
+      "startDate": "2007-07-01",
+      "endDate": "2009-06-30"
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Hindi",
+      "fluency": "Native speaker",
+      "icon": ""
+    },
+    {
+      "language": "Marathi",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -163,38 +65,70 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Optimization",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Mathematical modeling",
+        "Linear and nonlinear optimization",
+        "Mixed-integer (linear and nonlinear) programming",
+        "Derivative-free optimization"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
     },
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+      "name": "Computing",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Parallel computing (shared- and distributed-memory)",
+        "GPU computing (beginner)",
+        "Quantum computing in optimization (beginner)"
+      ]
+    },
+    {
+      "name": "Game Theory",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Algorithmic game theory",
+        "Computation of Nash Equilibria"
+      ]
+    },
+    {
+      "name": "Machine Learning",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Statistical Machine Learning",
+        "Reinforcement Learning",
+        "Deep Learning",
+        "Interplay of AI/ML and Optimization"
+      ]
+    }  ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
+      "summary": "Involves timetabling of passenger trains using state-of-art optimization algorithms and computing techniques for Indian railways.",
+      "highlights": ["Constraint Programming", "Integer Programming", "Decomposition techniques", "Heuristics"],
+      "startDate": "2024-11-14",
+      "endDate": "2026-01-13"
+    },
+    {
+      "name": "Freight Dynamic Pricing for Indian Railways (with Centre for Railway Information Systems (CRIS)) - Co-PI",
+      "summary": "Involves arriving at dynamic pricing strategies for freight trains for Indian Railways.",
+      "highlights": ["Machine Learning", "Stackelberg Games", "Optimization"],
+      "startDate": "2024-11-14",
+      "endDate": "2026-01-13"
+    },
+    {
+      "name": "Theoretical, Computational And Software Advancements In Mixed-Integer Nonlinear Optimization (Industrial Research and Development Unit, IIT Delhi)",
+      "summary": "Involves advancement of the open-source solver, Minotaur, being jointly developed with a team from IIT Bombay.",
+      "highlights": ["Mixed-Integer Nonlinear Optimization", "Parallel Computing"],
+      "startDate": "2022-12-01",
+      "endDate": "2025-12-31"
+    },
+    {
+      "name": "Development of an Automated Optimal Airline Disruption Management System (with InterGlobe Aviation Ltd (Indigo Airlines))",
+      "summary": "Involves development of a robust learning and optimization based agent to minimize the cascading losses due to various disruptions.",
+      "highlights": ["Machine Learning", "Simulation", "Optimization"],
+      "startDate": "2022-12-01",
+      "endDate": "2025-12-31"
     }
   ]
 }
