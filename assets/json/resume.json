@@ -6,7 +6,7 @@
     "email": "ppalkar@iitd.ac.in",
     "phone": "(011) 2659 1127",
     "url": "https://ppalkar.github.io/al-folio/",
-    "summary": "I am a faculty in the IEOR group in the Department of Mechanical Engineering at IIT Delhi. I work on theory, algorithms, software and applications of Operations Research.",
+    "summary": "I am a faculty in the IEOR group in the Department of Mechanical Engineering at IIT Delhi. I work on theory, algorithms, software and applications of Optimization and Machine Learning. Recently, I have been working on some interesting projects in Indian Railways and Healthcare.",
     "location": {
       "address": "VA-11, Block 5A",
       "postalCode": "IIT Delhi",
@@ -21,9 +21,44 @@
       "position": "Assistant Professor, IEOR, Department of Mechanical Engineering",
       "url": "https://ppalkar.github.io",
       "startDate": "2022-12-01",
-      "endDate": "",
+      "endDate": "present",
       "summary": "Working in the areas of Integer Programming, Machine Learning and Algorithmic Game Theory currently at IEOR, ME, IIT Delhi.",
-      "highlights": ["Optimization and AI/ML"]
+      "highlights": ["Optimization, AI/ML, Railways, Healthcare"]
+    },
+    {
+      "name": "Institute of Mathematics, University of Augsburg, Germany",
+      "position": "Postdoctoral Researcher, Chair of Discrete Mathematics, Optimization, and Operations Research",
+      "url": "https://www.uni-augsburg.de/en/fakultaet/mntf/math/",
+      "startDate": "2021-04-01",
+      "endDate": "2022-11-30",
+      "summary": "Worked on Algorithmic Game Theory, in particular, on computation of Nash Equilibrium in Dynamic Traffic Assignment for Electric Vehicles",
+      "highlights": ["Optimization, AI/ML, Railways, Healthcare"]
+    },    {
+      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, US",
+      "position": "Research Aide",
+      "url": "https://www.anl.gov/mcs",
+      "startDate": "2018-04-23",
+      "endDate": "2018-08-03",
+      "summary": "Worked on a globally convergent cutting-plane method for simulation-based optimization with integer constraints",
+      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Derivative-free Optimization solvers"]
+    },
+    {
+      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, US",
+      "position": "Research Aide",
+      "url": "https://www.anl.gov/mcs",
+      "startDate": "2017-03-27",
+      "endDate": "2017-07-14",
+      "summary": "Worked on algorithms for Mixed-Integer Derivative-Free Optimization",
+      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Optimization solvers"]
+    },
+    {
+      "name": "Tata Steel",
+      "position": "Manager and subsequently, Senior Manager, Process Modelling and Visualization, Technology Group Global Wires and Longs",
+      "url": "www.tatasteel.com",
+      "startDate": "2009-10-05",
+      "endDate": "2013-07-09",
+      "summary": "Modelled and provided solutions to optimization problems like 1D cuttingstock problem with multiple stock sizes, job-shop scheduling, vehicle loading (2D) etc. using heuristics and CPLEX solver in long products segment of steel; developed software (using C++, Vb.net, SQL) with embedded optimization modules for end-to-end management of `Cut and Bend' business centres of Tata Steel Ltd. and its partners in Singapore, China, Thailand and India via multiple site visits and customer interactions",
+      "highlights": ["Cutting and Loading, Scheduling, Heuristics, CPLEX"]
     }
   ],
   "education": [
@@ -41,7 +76,7 @@
       "location": "Mumbai, India",
       "url": "https://www.ieor.iitb.ac.in/",
       "area": "Industrial Engineering and Operations Research",
-      "studyType": "PhD",
+      "studyType": "Master of Technology",
       "startDate": "2007-07-01",
       "endDate": "2009-06-30"
     }
@@ -79,8 +114,7 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Parallel computing (shared- and distributed-memory)",
-        "GPU computing (beginner)",
-        "Quantum computing in optimization (beginner)"
+        "GPU and Quantum computing in optimization (beginner)"
       ]
     },
     {
@@ -131,4 +165,15 @@
       "endDate": "2025-12-31"
     }
   ]
+  "other interests": [
+    {
+      "name": "Indian Classical Vocal",
+      "icon": "fa-solid fa-tag"
+      ]
+    },
+    {
+      "name": "Playing Badminton, Table tennis, Volleyball, etc.",
+      "icon": "fa-solid fa-tag"
+      ]
+    }
 }
