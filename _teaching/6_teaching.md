@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Special Topics in Industrial Engineering and Operations Research
-description: Markov Decision Processes and Reinforcement Learning; cotaught with Prof. Amber Srivastava
+description: Markov Decision Processes and Reinforcement Learning; co-taught with Prof. Amber Srivastava
 img:
 importance: 4
 category: Upcoming

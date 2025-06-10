@@ -4,7 +4,7 @@ title: Industrial Engineering Lab - I
 description: summer course
 img: assets/img/1.jpg
 importance: 3
-category: Optimization
+category: Artificial Intelligence and Machine Learning
 ---
 
 Every project has a beautiful feature showcase page.
