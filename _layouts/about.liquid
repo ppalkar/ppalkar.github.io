@@ -40,6 +40,14 @@ layout: default
 
     <div class="clearfix">{{ content }}</div>
 
+    <!-- Experience -->
+    {% if page.experience and site.experience.enabled %}
+      <h2>
+        <a href="{{ '/resume/' | relative_url }}" style="color: inherit">experience</a>
+      </h2>
+      {% include experience.liquid limit=true %}
+    {% endif %}
+
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
