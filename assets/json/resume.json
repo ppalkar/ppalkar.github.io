@@ -134,7 +134,8 @@
         "Deep Learning",
         "Interplay of AI/ML and Optimization"
       ]
-    }  ],
+    }  
+  ],
   "projects": [
     {
       "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
@@ -164,16 +165,16 @@
       "startDate": "2022-12-01",
       "endDate": "2025-12-31"
     }
-  ]
+  ],
   "other interests": [
     {
       "name": "Indian Classical Vocal",
       "icon": "fa-solid fa-tag"
-      ]
     },
     {
       "name": "Playing Badminton, Table tennis, Volleyball, etc.",
       "icon": "fa-solid fa-tag"
       ]
     }
+  ]
 }
