@@ -21,9 +21,15 @@
       "position": "Assistant Professor, IEOR, Department of Mechanical Engineering",
       "url": "https://ppalkar.github.io",
       "startDate": "2022-12-01",
-      "endDate": "present",
+      "endDate": "Present",
       "summary": "Working in the areas of Integer Programming, Machine Learning and Algorithmic Game Theory currently at IEOR, ME, IIT Delhi.",
-      "highlights": ["Optimization, AI/ML, Railways, Healthcare"]
+      "highlights": ["Optimization, AI/ML, Railways, Healthcare"],
+      "location": "New Delhi, India",
+      "homepage_keyword": "Department of Mechanical Engineering",
+      "homepage_description": "Assistant Professor, IEOR",
+      "homepage_title": "IIT Delhi",
+      "img": "assets/img/experience/iitdLogo.jpeg",
+      "homepage": true
     },
     {
       "name": "Institute of Mathematics, University of Augsburg, Germany",
@@ -32,15 +38,28 @@
       "startDate": "2021-04-01",
       "endDate": "2022-11-30",
       "summary": "Worked on Algorithmic Game Theory, in particular, on computation of Nash Equilibrium in Dynamic Traffic Assignment for Electric Vehicles",
-      "highlights": ["Optimization, AI/ML, Railways, Healthcare"]
-    },    {
-      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, US",
+      "highlights": ["Optimization, AI/ML, Railways, Healthcare"],
+      "location": "Augsburg, Bavaria, Germany",
+      "homepage_keyword": "Institute of Mathematics",
+      "homepage_description": "Postdoctoral Researcher, Chair of Discrete Mathematics, Optimization, and Operations Research",
+      "homepage_title": "University of Augsburg",
+      "img": "assets/img/experience/uniAugsburg.jpg",
+      "homepage": true
+    },    
+    {
+      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, IL, USA",
       "position": "Research Aide",
       "url": "https://www.anl.gov/mcs",
       "startDate": "2018-04-23",
       "endDate": "2018-08-03",
       "summary": "Worked on a globally convergent cutting-plane method for simulation-based optimization with integer constraints",
-      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Derivative-free Optimization solvers"]
+      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Derivative-free Optimization solvers"],
+      "location": "Lemont, IL, USA",
+      "homepage_keyword": "Mathematics and Computer Science Division",
+      "homepage_description": "Research Aide, Mathematics and Computer Science Division",
+      "homepage_title": "Argonne National Laboratory",
+      "img": "assets/img/experience/anl.png",
+      "homepage": true
     },
     {
       "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, US",
