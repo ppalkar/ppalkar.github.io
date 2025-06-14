@@ -45,4 +45,22 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>mey247593@iitd.ac.in</p>
+  - align: right
+    image: pratiksha.jpeg
+    content: pratiksha.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mee242647@iitd.ac.in</p>
+  - align: left
+    image: aish.jpeg
+    content: aish.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mee242868@iitd.ac.in</p>
+  - align: right
+    image: shubhang.jpeg
+    content: shubhang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>shubhangkpant@gmail.com</p>
 ---
