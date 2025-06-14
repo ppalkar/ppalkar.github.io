@@ -32,11 +32,17 @@ profiles:
     content: avni.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>mez248604@mech.iitd.ac.in</p>
+     <p>mez248604@iitd.ac.in</p>
   - align: right
     image: vivek.jpeg
     content: vivek.md
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>mez238292@iitd.ac.in</p>
+  - align: left
+    image: nayan.jpeg
+    content: nayan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mey247593@iitd.ac.in</p>
 ---
