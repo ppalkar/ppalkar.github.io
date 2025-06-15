@@ -60,6 +60,10 @@
           {% endif %}
         "
       {% endif %}
+      {% comment %} Add general style support {% endcomment %}
+      {% if include.style %}
+        style="{{ include.style }}"
+      {% endif %}
       {% if include.alt %}
         alt="{{ include.alt }}"
       {% endif %}
