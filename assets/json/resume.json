@@ -43,7 +43,7 @@
       "homepage_keyword": "Institute of Mathematics",
       "homepage_description": "Postdoctoral Researcher, Chair of Discrete Mathematics, Optimization, and Operations Research",
       "homepage_title": "University of Augsburg",
-      "img": "assets/img/experience/uniAugsburg.jpg",
+      "img": "assets/img/experience/uniALogo.webp",
       "homepage": true
     },    
     {
@@ -58,7 +58,7 @@
       "homepage_keyword": "Mathematics and Computer Science Division",
       "homepage_description": "Research Aide, Mathematics and Computer Science Division",
       "homepage_title": "Argonne National Laboratory",
-      "img": "assets/img/experience/anl.png",
+      "img": "assets/img/experience/anlLogo.jpg",
       "homepage": true
     },
     {
@@ -78,6 +78,11 @@
       "endDate": "2013-07-09",
       "summary": "Modelled and provided solutions to optimization problems like 1D cuttingstock problem with multiple stock sizes, job-shop scheduling, vehicle loading (2D) etc. using heuristics and CPLEX solver in long products segment of steel; developed software (using C++, Vb.net, SQL) with embedded optimization modules for end-to-end management of `Cut and Bend' business centres of Tata Steel Ltd. and its partners in Singapore, China, Thailand and India via multiple site visits and customer interactions",
       "highlights": ["Cutting and Loading, Scheduling, Heuristics, CPLEX"]
+      "homepage_keyword": "Mathematics and Computer Science Division",
+      "homepage_description": "Senior Manager, Process Modelling and Visualization",
+      "homepage_title": "Tata Steel",
+      "img": "assets/img/experience/tata_logo.png",
+      "homepage": true
     }
   ],
   "education": [
