@@ -8,10 +8,17 @@
           <tr>
             <!-- add an image here! -->
             {% if item.img %}
-              <th scope="row" id="date_width" style=" padding-right: 10px; padding-left: 0px !important">
-                {% include figure.liquid home=true path=item.img sizes="(min-width: 768px) 26px, 8vw" alt="project thumbnail" style="padding: 15px; width: 16.67%" %}
+              <th scope="row" id="date_width" style="padding-right: 10px; padding-left: 0px !important">
+                <div style="width: 26px; padding: 5px;">
+                  {% include figure.liquid 
+                    home=true 
+                    path=item.img 
+                    sizes="(min-width: 768px) 26px, 8vw" 
+                    alt=item.homepage_title 
+                  %}
+                </div>
               </th>
-            {% endif %}
+            {% endif %}            
             <td style="vertical-align: middle;" id="width-resume">
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.homepage_title }}</a>
