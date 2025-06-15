@@ -46,7 +46,7 @@ profiles:
     more_info: >
      <p>mey247593@iitd.ac.in</p>
   - align: right
-    image: pratiksha.jpeg
+    image: pratiksha.jpg
     content: pratiksha.md
     image_circular: false # crops the image to make it circular
     more_info: >

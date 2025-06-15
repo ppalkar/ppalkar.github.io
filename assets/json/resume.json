@@ -39,7 +39,7 @@
       "endDate": "2022-11-30",
       "summary": "Worked on Algorithmic Game Theory, in particular, on computation of Nash Equilibrium in Dynamic Traffic Assignment for Electric Vehicles",
       "highlights": ["Optimization, AI/ML, Railways, Healthcare"],
-      "location": "Augsburg, Bavaria, Germany",
+      "location": "Augsburg, BY, Germany",
       "homepage_keyword": "Institute of Mathematics",
       "homepage_description": "Postdoctoral Researcher, Chair of Discrete Mathematics, Optimization, and Operations Research",
       "homepage_title": "University of Augsburg",
@@ -183,6 +183,28 @@
       "highlights": ["Machine Learning", "Simulation", "Optimization"],
       "startDate": "2022-12-01",
       "endDate": "2025-12-31"
+    },
+    {
+      "name": "Automatic segmentation and reduction of anomalies in joints for presurgical planning (with Orthopaedic experts team from MAMC)",
+      "summary": "Involves development of a tool for automatic anomaly detection, segmentation and reduction of joint fracture fragments and tumors for presurgical planning.",
+      "highlights": ["Machine Learning", "Optimization", "Image Processing"],
+      "startDate": "2025-01-01",
+      "endDate": "2025-12-31"
+    }
+  ],
+  "volunteer": [
+    {
+      "name": "Reviewer",
+      "highlights":["Computational Optimization and Applications", "Informs Journal of Computing", "Discrete Applied Mathematics", "Saadhana"],
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "IEOR Systems and Website Administrator",
+      "icon": "fa-solid fa-tag"
+    },
+    {
+      "name": "IEOR M.Tech. Coordinator",
+      "icon": "fa-solid fa-tag"
     }
   ],
   "other interests": [
