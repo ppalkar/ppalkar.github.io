@@ -9,12 +9,13 @@
             <!-- add an image here! -->
             {% if item.img %}
               <th scope="row" id="date_width" style="padding-right: 10px; padding-left: 0px !important">
-                <div style="width: 26px; padding: 10px;">
+                <div style="width: 26px;">
                   {% include figure.liquid 
                     home=true 
                     path=item.img 
                     sizes="(min-width: 768px) 26px, 8vw" 
-                    alt=item.homepage_title 
+                    alt=item.homepage_title
+                    style="width: 100%; height: auto;" 
                   %}
                 </div>
               </th>
