@@ -8,14 +8,14 @@
           <tr>
             <!-- add an image here! -->
             {% if item.img %}
-              <th scope="row" id="date_width" style="padding-right: 10px; padding-left: 0px !important">
-                <div style="width: 26px;">
+              <th scope="row" id="date_width" style="padding-right: 5px; padding-left: 0px !important">
+                <div style="width: 40px;">
                   {% include figure.liquid 
                     home=true 
                     path=item.img 
-                    sizes="(min-width: 768px) 26px, 8vw" 
-                    alt=item.homepage_title
-                    style="width: 100%; height: auto;" 
+                    sizes="(min-width: 768px) 40px, 10vw" 
+                    alt=item.homepage_title 
+                    style="width: 100%; height: auto; border-radius: 50%;" 
                   %}
                 </div>
               </th>
@@ -24,17 +24,17 @@
               {% if item.redirect == blank %}
                 <a class="news-title" href="{{ item.url | relative_url }}">{{ item.homepage_title }}</a>
                 {%- if item.homepage_description %}:{% endif %}
-                <span style="font-size: .875rem">{{ item.homepage_description }}</span>
+                <span style="font-size: 1rem">{{ item.homepage_description }}</span>
 
               {% elsif item.redirect contains '://' %}
                 <a class="news-title" href="{{ item.redirect }}" target="_blank">{{ item.homepage_title }}</a>
                 {%- if item.homepage_description %}:{% endif %}
-                <span style="font-size: .875rem">{{ item.homepage_description }}</span>
+                <span style="font-size: 1rem">{{ item.homepage_description }}</span>
               {% else %}
                 <a class="news-title" href="{{ item.redirect | relative_url }}">{{ item.homepage_title }}</a>
               {% endif %}
               <br>
-              <span style="font-size: .75rem">
+              <span style="font-size: .875rem">
                 {% if item.startDate %}
                   {{ item.startDate | date: '%b %Y' }}
                   {% if item.endDate %}
