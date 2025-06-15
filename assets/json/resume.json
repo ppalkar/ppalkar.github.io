@@ -4,8 +4,8 @@
     "label": "Assistant Professor",
     "image": "",
     "email": "ppalkar@iitd.ac.in",
-    "phone": "(011) 2659 1127",
-    "url": "https://ppalkar.github.io/al-folio/",
+    "phone": "+91 11 2659 1127",
+    "url": "https://ppalkar.github.io",
     "summary": "I am a faculty in the IEOR group in the Department of Mechanical Engineering at IIT Delhi. I work on theory, algorithms, software and applications of Optimization and Machine Learning. Recently, I have been working on some interesting projects in Indian Railways and Healthcare.",
     "location": {
       "address": "VA-11, Block 5A",
@@ -38,7 +38,7 @@
       "startDate": "2021-04-01",
       "endDate": "2022-11-30",
       "summary": "Worked on Algorithmic Game Theory, in particular, on computation of Nash Equilibrium in Dynamic Traffic Assignment for Electric Vehicles",
-      "highlights": ["Optimization, AI/ML, Railways, Healthcare"],
+      "highlights": ["Algorithmic Game Theory, Nonlinear Optimization, Electric Vehicles, Networks"],
       "location": "Augsburg, BY, Germany",
       "homepage_keyword": "Institute of Mathematics",
       "homepage_description": "Postdoctoral Researcher, Chair of Discrete Mathematics, Optimization, and Operations Research",
@@ -53,7 +53,7 @@
       "startDate": "2018-04-23",
       "endDate": "2018-08-03",
       "summary": "Worked on a globally convergent cutting-plane method for simulation-based optimization with integer constraints",
-      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Derivative-free Optimization solvers"],
+      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Solvers"],
       "location": "Lemont, IL, USA",
       "homepage_keyword": "Mathematics and Computer Science Division",
       "homepage_description": "Research Aide, Mathematics and Computer Science Division",
@@ -68,7 +68,8 @@
       "startDate": "2017-03-27",
       "endDate": "2017-07-14",
       "summary": "Worked on algorithms for Mixed-Integer Derivative-Free Optimization",
-      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Optimization solvers"]
+      "highlights": ["Derivative-free Optimization, Mixed-Integer Linear Programming, Optimization solvers"],
+      "location": "Lemont, IL, USA"
     },
     {
       "name": "Tata Steel",
@@ -87,19 +88,19 @@
   ],
   "education": [
     {
-      "institution": "Indian Institute of Technology Bombay",
+      "institution": "IEOR, Indian Institute of Technology Bombay",
       "location": "Mumbai, India",
       "url": "https://www.ieor.iitb.ac.in/",
-      "area": "Mixed-Integer Nonlinear Optimization",
+      "area": "Mixed-Integer Nonlinear Optimization, Parallel Computing",
       "studyType": "PhD",
       "startDate": "2013-07-12",
       "endDate": "2021-07-20"
     },
     {
-      "institution": "Indian Institute of Technology Bombay",
+      "institution": "IEOR, Indian Institute of Technology Bombay",
       "location": "Mumbai, India",
       "url": "https://www.ieor.iitb.ac.in/",
-      "area": "Industrial Engineering and Operations Research",
+      "area": "Vechile Routing Problems, Integer Programming",
       "studyType": "Master of Technology",
       "startDate": "2007-07-01",
       "endDate": "2009-06-30"
@@ -119,6 +120,11 @@
     {
       "language": "English",
       "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Sanskrit",
+      "fluency": "Limited Proficiency",
       "icon": ""
     }
   ],
@@ -153,7 +159,6 @@
       "name": "Machine Learning",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Statistical Machine Learning",
         "Reinforcement Learning",
         "Deep Learning",
         "Interplay of AI/ML and Optimization"
@@ -164,9 +169,16 @@
     {
       "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
       "summary": "Involves timetabling of passenger trains using state-of-art optimization algorithms and computing techniques for Indian railways.",
-      "highlights": ["Constraint Programming", "Integer Programming", "Decomposition techniques", "Heuristics"],
+      "highlights": ["Constraint Programming", "Integer Programming", "Heuristics"],
       "startDate": "2024-11-14",
       "endDate": "2026-01-13"
+    },
+    {
+      "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons",
+      "summary": "Involves developing optimization and learning techniques to arrive at optimal type and number of cartons and optimal placement of SKUs within them.",
+      "highlights": ["Mixed-Integer Linear Programming", "Clustering", "Decomposition"],
+      "startDate": "2024-07-01",
+      "endDate": "2024-12-31"
     },
     {
       "name": "Freight Dynamic Pricing for Indian Railways (with Centre for Railway Information Systems (CRIS)) - Co-PI",
@@ -176,7 +188,7 @@
       "endDate": "2026-01-13"
     },
     {
-      "name": "Theoretical, Computational And Software Advancements In Mixed-Integer Nonlinear Optimization (Industrial Research and Development Unit, IIT Delhi)",
+      "name": "Theoretical, Computational And Software Advancements In Mixed-Integer Nonlinear Optimization (IRD, IIT Delhi)",
       "summary": "Involves advancement of the open-source solver, Minotaur, being jointly developed with a team from IIT Bombay.",
       "highlights": ["Mixed-Integer Nonlinear Optimization", "Parallel Computing"],
       "startDate": "2022-12-01",
@@ -190,7 +202,7 @@
       "endDate": "2025-12-31"
     },
     {
-      "name": "Automatic segmentation and reduction of anomalies in joints for presurgical planning (with Orthopaedic experts team from MAMC)",
+      "name": "Automatic segmentation and reduction of anomalies in joints for presurgical planning (with Orthopaedics team, MAMC)",
       "summary": "Involves development of a tool for automatic anomaly detection, segmentation and reduction of joint fracture fragments and tumors for presurgical planning.",
       "highlights": ["Machine Learning", "Optimization", "Image Processing"],
       "startDate": "2025-01-01",
@@ -200,7 +212,12 @@
   "volunteer": [
     {
       "name": "Reviewer",
-      "highlights":["Computational Optimization and Applications", "Informs Journal of Computing", "Discrete Applied Mathematics", "Saadhana"],
+      "keywords": [
+          "Computational Optimization and Applications",
+          "Informs Journal of Computing",
+          "Discrete Applied Mathematics",
+          "Saadhana"
+      ],
       "icon": "fa-solid fa-tag"
     },
     {
