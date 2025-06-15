@@ -24,10 +24,10 @@ social: true # includes social icons at the bottom of the page
 
 I am an Assistant Professor in the Industrial Engineering and Operations Research (IEOR) group in the <a href="http://mech.iitd.ac.in/">Department of Mechanical Engineering</a> at the <a href="https://home.iitd.ac.in/">Indian Institute of Technology Delhi</a>. I work on theory, algorithms, software, and applications of Optimization. I also work on Algorithmic Game Theory and AI/ML.
 
-I am an Assistant Professor in the Industrial Engineering and Operations Research (IEOR) group in the Department of Mechanical Engineering at IIT Delhi (since December 2022). 
-My Master's and PhD theses involved modelling and solving Discrete Optimization problems, in particular, using Parallel Computing Techniques to Accelerate Mixed Integer Nonlinear Programming Algorithms. I was a Postdoctoral Researcher at the University of Augsburg in Germany for about two years after my PhD, where I worked on the Computation of Nash Equilibrium in Dynamic Traffic Assignment and other similar problems in Algorithmic Game Theory.
+I am an Assistant Professor in the Industrial Engineering and Operations Research (IEOR) group in the Department of Mechanical Engineering at IIT Delhi. 
+My Master's and PhD theses involved modelling and solving Discrete Optimization problems, in particular, using Parallel Computing Techniques to Accelerate Mixed Integer Nonlinear Programming Algorithms. I was a Postdoctoral Researcher at the University of Augsburg in Germany after my PhD, where I worked on the Computation of Nash Equilibrium in Dynamic Traffic Assignment and other similar problems in Algorithmic Game Theory.
 
-Earlier, I worked at Tata Steel for about 3.5 years after my M.Tech., on various Process Modelling and Optimization problems, particularly Production Planning, Transportation, Machine Scheduling, and Cutting-and-Packing problems in the long products segment of steel.
+Earlier, I worked at Tata Steel on various Process Modelling and Optimization problems, particularly Production Planning, Transportation, Machine Scheduling, and Cutting-and-Packing problems in the long products segment of steel.
 
 My research interests lie in the theory, algorithms, software, and applications of Operations Research. In particular, I work a lot on mixed-integer linear and nonlinear optimization, derivative-free optimization, and AI/ML techniques. I am one of the lead developers of the <a href="https://github.com/coin-or/minotaur">MINOTAUR</a> optimization solver, an open-source framework for mixed-integer nonlinear optimization.
 
