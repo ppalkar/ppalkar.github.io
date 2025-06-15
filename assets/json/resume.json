@@ -82,7 +82,7 @@
       "homepage_keyword": "Mathematics and Computer Science Division",
       "homepage_description": "Senior Manager, Process Modelling and Visualization",
       "homepage_title": "Tata Steel",
-      "img": "assets/img/experience/tata_logo.png",
+      "img": "assets/img/experience/tataNiceLogo.png",
       "homepage": true
     }
   ],
@@ -174,7 +174,7 @@
       "endDate": "2026-01-13"
     },
     {
-      "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons",
+      "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons (with Thermofisher Scientific)",
       "summary": "Involves developing optimization and learning techniques to arrive at optimal type and number of cartons and optimal placement of SKUs within them.",
       "highlights": ["Mixed-Integer Linear Programming", "Clustering", "Decomposition"],
       "startDate": "2024-07-01",
@@ -221,11 +221,15 @@
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "IEOR Systems and Website Administrator",
-      "icon": "fa-solid fa-tag"
+      "name": "IEOR Systems and Website Administrator, IIT Delhi",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Multicore High-end Debian Servers",
+        "GPU workstations"
+      ]
     },
     {
-      "name": "IEOR M.Tech. Coordinator",
+      "name": "IEOR M.Tech. Coordinator, ME, IIT Delhi",
       "icon": "fa-solid fa-tag"
     }
   ],
@@ -235,8 +239,8 @@
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Hindustani classical vocal",
-        "Light music (Bhajans, Ghazals, Film songs, etc.)",
-        "Instrumental"
+        "Light music (Bhajan, Ghazal, etc.)",
+        "Instrumental melodies"
       ]
     },
     {
