@@ -77,7 +77,7 @@
       "startDate": "2009-10-05",
       "endDate": "2013-07-09",
       "summary": "Modelled and provided solutions to optimization problems like 1D cuttingstock problem with multiple stock sizes, job-shop scheduling, vehicle loading (2D) etc. using heuristics and CPLEX solver in long products segment of steel; developed software (using C++, Vb.net, SQL) with embedded optimization modules for end-to-end management of `Cut and Bend' business centres of Tata Steel Ltd. and its partners in Singapore, China, Thailand and India via multiple site visits and customer interactions",
-      "highlights": ["Cutting and Loading, Scheduling, Heuristics, CPLEX"]
+      "highlights": ["Cutting and Loading, Scheduling, Heuristics, CPLEX"],
       "homepage_keyword": "Mathematics and Computer Science Division",
       "homepage_description": "Senior Manager, Process Modelling and Visualization",
       "homepage_title": "Tata Steel",
@@ -215,11 +215,21 @@
   "other interests": [
     {
       "name": "Indian Classical Vocal",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Hindustani classical vocal",
+        "Light music (Bhajans, Ghazals, Film songs, etc.)",
+        "Instrumental"
+      ]
     },
     {
-      "name": "Playing Badminton, Table tennis, Volleyball, etc.",
-      "icon": "fa-solid fa-tag"
+      "name": "Sports",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Badminton",
+        "Table tennis",
+        "Volleyball"
+      ]
     }
   ]
 }
