@@ -1,43 +1,38 @@
 ---
 layout: page
 ---
-<div class="post">
-  <article>
-    {% if page.profiles %}
-      {% for profile in page.profiles %}
-        <hr>
-        <div class="profile float-{% if profile.align == 'left' %}left{% else %}right{% endif %}">
-          {% if profile.image %}
-            {% assign profile_image_path = profile.image | prepend: 'assets/img/students/' %}
-            {% if profile.image_circular %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded-circle' %}
-            {% else %}
-              {% assign profile_image_class = 'img-fluid z-depth-1 rounded' %}
-            {% endif %}
-            {% capture sizes %}(min-width: {{site.max_width}}) {{ site.max_width | minus: 30 | times: 0.3}}px, (min-width: 576px) 30vw, 95vw"{% endcapture %}
-            {% include figure.liquid
-               loading="eager"
-               path=profile_image_path
-               class=profile_image_class
-               sizes=sizes
-               alt=profile.image
-               style="width: 120px; height: auto;"
-            %}
-          {% endif %}
-          {% if profile.more_info %}
-            <div class="more-info">{{ profile.more_info }}</div>
-          {% endif %}
-        </div>
+<div class="profile-grid">
+  {% for profile in page.profiles %}
+    <div class="profile-card">
+      {% if profile.image %}
+        {% assign profile_image_path = profile.image | prepend: 'assets/img/' %}
+        {% assign profile_image_class = profile.image_circular == true | default: false
+          | ternary: 'profile-img rounded-circle', 'profile-img rounded' %}
+        {% capture sizes %}(min-width: {{site.max_width}}) 200px, 95vw{% endcapture %}
+        {% include figure.liquid 
+          loading="eager" 
+          path=profile_image_path 
+          class=profile_image_class 
+          sizes=sizes 
+          alt=profile.image 
+        %}
+      {% endif %}
 
-        <div class="clearfix">
-          {% if profile.content %}
-            {% capture profile_content %}{% include_relative {{ profile.content }} %}{% endcapture %}
-            {{ profile_content | markdownify }}
-          {% else %}
-            {{ content }}
-          {% endif %}
-        </div>
-      {% endfor %}
-    {% endif %}
-  </article>
+      {% if profile.more_info %}
+        <div class="profile-email">{{ profile.more_info }}</div>
+      {% endif %}
+
+      <div class="profile-content">
+        {% if profile.content %}
+          {% capture profile_content %}
+            {% include_relative _pages/{{ profile.content }} %}
+          {% endcapture %}
+          {{ profile_content }}
+        {% else %}
+          {{ content }}
+        {% endif %}
+      </div>
+    </div>
+  {% endfor %}
 </div>
+
