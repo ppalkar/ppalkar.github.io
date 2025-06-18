@@ -25,7 +25,7 @@ layout: page
       <div class="profile-content">
         {% if profile.content %}
           {% capture profile_content %}
-            {% include_relative _pages/{{ profile.content }} %}
+            {% include_relative ../_profiles/{{ profile.content }} %}
           {% endcapture %}
           {{ profile_content }}
         {% else %}
