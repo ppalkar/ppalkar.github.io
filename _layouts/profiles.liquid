@@ -24,10 +24,7 @@ layout: page
 
       <div class="profile-content">
         {% if profile.content %}
-          {% capture profile_content %}
-            {% include profiles/{{ profile.content }} %}
-          {% endcapture %}
-          {{ profile_content | markdownify }}
+          {% include profiles/{{ profile.content }} %}
         {% else %}
           {{ content }}
         {% endif %}
