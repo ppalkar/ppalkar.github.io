@@ -61,3 +61,23 @@ $max-content-width: {{ site.max_width }};
   font-size: 1.25rem;
   margin: 0.5rem 0;
 }
+
+@media (prefers-color-scheme: dark) {
+  .profile-card {
+    background-color: #1e1e1e; // dark background
+    color: #f0f0f0; // light text
+    border: 1px solid #333;
+  }
+
+  .profile-email {
+    color: #aaa;
+  }
+
+  .profile-content a {
+    color: #9ecbff;
+  }
+
+  .profile-content h1, .profile-content h2 {
+    color: #f5f5f5;
+  }
+}
