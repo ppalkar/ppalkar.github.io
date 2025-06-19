@@ -81,3 +81,35 @@ $max-content-width: {{ site.max_width }};
     color: #f5f5f5;
   }
 }
+
+.profile-details {
+  text-align: left;
+  width: 100%;
+  font-size: 0.95rem;
+}
+
+.profile-name {
+  font-size: 1.25rem;
+  margin-bottom: 0.25rem;
+}
+
+.profile-role {
+  font-style: italic;
+  color: #666;
+  margin-bottom: 1rem;
+}
+
+.profile-details p {
+  margin: 0.5rem 0;
+}
+
+@media (prefers-color-scheme: dark) {
+  .profile-role {
+    color: #aaa;
+  }
+
+  .profile-details a {
+    color: #9ecbff;
+  }
+}
+
