@@ -1,9 +1,19 @@
-<h1>Kishan</h1>
+<div class="profile-details">
+  <h2 class="profile-name">Kishan</h2>
+  <p class="profile-role">
+    Research Scholar,
+    <a href="https://uqiitd.org">University of Queensland - Indian Institute of Technology Delhi Research Academy (UQIDAR)</a>
+  </p>
 
-Research Scholar, <a href='https://uqiitd.org'>University of Queensland - Indian Institute of Technology Delhi Research Academy (UQIDAR)</a>
+  <p><strong>Thesis Topic:</strong><br>
+    <a href="https://uqiitd.org/projects/ai-ml-framework-for-mixed-integer-nonlinear-optimization/">AI/ML Framework for Mixed-Integer Nonlinear Optimization</a>
+  </p>
 
-<b>Thesis topic</b>: <a href='https://uqiitd.org/projects/ai-ml-framework-for-mixed-integer-nonlinear-optimization/'>AI/ML Framework for Mixed-Integer Nonlinear Optimization</a>
+  <p><strong>Research Interests:</strong><br>
+    Integer Programming, Reinforcement Learning
+  </p>
 
-<b>Research Interests</b>: Integer Programming, Reinforcement Learning
-
-<b>Academic Background</b>: M.Sc. Data Science (Mathematics and Computer Science, IIT BHU)
+  <p><strong>Academic Background:</strong><br>
+    M.Sc. Data Science (Mathematics and Computer Science), IIT BHU
+  </p>
+</div>
