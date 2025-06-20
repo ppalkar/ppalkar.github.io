@@ -2,7 +2,7 @@
   <h2 class="profile-name">Kishan</h2>
   <p class="profile-role">
     Research Scholar,
-    <a href="https://uqiitd.org">University of Queensland - Indian Institute of Technology Delhi Research Academy (UQIDAR)</a>
+    <a href="https://uqiitd.org">University of Queensland - IIT Delhi Research Academy (UQIDAR)</a>
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
