@@ -48,7 +48,17 @@ $max-content-width: {{ site.max_width }};
   width: 100px;
   height: 100px;
   object-fit: cover;
+  display: block;
   margin-bottom: 1rem;
+}
+
+/* Force override in case Bootstrap or other utility classes conflict */
+img.profile-img,
+img.profile-img.rounded,
+img.profile-img.rounded-circle {
+  width: 100px !important;
+  height: 100px !important;
+  object-fit: cover !important;
 }
 
 .profile-email {
