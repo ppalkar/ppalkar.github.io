@@ -1,9 +1,18 @@
-<h1>Avni Sharma</h1>
+<div class="profile-details">
+  <h2 class="profile-name">Avni Sharma</h2>
+  <p class="profile-role">
+    Research Scholar, IEOR, IIT Delhi
+  </p>
 
-Research Scholar, IEOR, IIT Delhi
+  <p><strong>Thesis Topic:</strong><br>
+    Data driven methods for climate research
+  </p>
 
-<b>Thesis topic</b>: Data driven methods for climate research
+  <p><strong>Research Interests:</strong><br>
+    Sparse Regression, Optimization, Machine Learning
+  </p>
 
-<b>Research Interests</b>: Sparse Regression, Optimization, Machine Learning
-
-<b>Academic Background</b>: M.Sc. Mathematics and Computing (IIT, ISM Dhanbad)
+  <p><strong>Academic Background:</strong><br>
+    M.Sc. Mathematics and Computing (IIT, ISM Dhanbad)
+  </p>
+</div>
