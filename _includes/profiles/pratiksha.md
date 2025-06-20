@@ -1,10 +1,19 @@
-<h1>Pratiksha Prabhakar</h1>
+<div class="profile-details">
+  <h2 class="profile-name">Pratiksha Prabhakar</h2>
+  <p class="profile-role">
+    M.Tech. Student, IEOR, IIT Delhi
+  </p>
 
-M.Tech. Student, IEOR, IIT Delhi
+  <p><strong>Thesis Topic:</strong><br>
+    Timetabling of Indian Railways via Constraint Programming and Integer Programming
+  </p>
 
-<b>Thesis topic</b>: Timetabling of Indian Railways via Constraint Programming and Integer Programming
+  <p><strong>Research Interests:</strong><br>
+    Mixed-Integer Linear Optimization, Machine Learning, Timetabling
+  </p>
 
-<b>Research Interests</b>: Mixed-Integer Linear Optimization, Machine Learning,
-Timetabling
+  <p><strong>Academic Background:</strong><br>
+    B.Tech. Agricultural Engineering (CoAE, UAS Raichur)
+  </p>
+</div>
 
-<b>Academic Background</b>: B.Tech. Agricultural Engineering (CoAE, UAS Raichur)

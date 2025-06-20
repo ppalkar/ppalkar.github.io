@@ -1,9 +1,18 @@
-<h1>Shubhang Pant</h1>
+<div class="profile-details">
+  <h2 class="profile-name">Shubhang Pant</h2>
+  <p class="profile-role">
+    Research Associate, IEOR, IIT Delhi
+  </p>
 
-Research Associate, IEOR, IIT Delhi
+  <p><strong>Project Topic:</strong><br>
+    Anomaly detection and automatic segmentation of joint fractures and tumors
+  </p>
 
-<b>Project topic</b>: Anomaly detection and automatic segmentation of joint fractures and tumors
+  <p><strong>Research Interests:</strong><br>
+    Machine Learning, Image Processing, Optimization
+  </p>
 
-<b>Research Interests</b>: Machine Learning, Image Processing, Optimization
-
-<b>Academic Background</b>: Systems Engineer (Infosys), B.Tech. Computer Science Engineering (Uttarakhand Technical University)
+  <p><strong>Academic Background:</strong><br>
+    Systems Engineer (Infosys), B.Tech. Computer Science Engineering (Uttarakhand Technical University)
+  </p>
+</div>

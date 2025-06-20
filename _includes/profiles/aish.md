@@ -1,9 +1,19 @@
-<h1>Aish Singh</h1>
+<div class="profile-details">
+  <h2 class="profile-name">Aish Singh</h2>
+  <p class="profile-role">
+    M.Tech. Student, IEOR, IIT Delhi
+  </p>
 
-M.Tech. Student, IEOR, IIT Delhi
+  <p><strong>Thesis Topic:</strong><br>
+    Decomposition techniques for precision timetabling of Indian Railways
+  </p>
 
-<b>Thesis topic</b>: Decomposition techniques for precision timetabling of Indian Railways
+  <p><strong>Research Interests:</strong><br>
+    Mixed-Integer Linear Optimization, Machine Learning, Timetabling
+  </p>
 
-<b>Research Interests</b>: Mixed-Integer Linear Optimization, Machine Learning, Timetabling
+  <p><strong>Academic Background:</strong><br>
+    B.Tech. Mechanical Engineering (The ICFAI University, Dehradun)
+  </p>
+</div>
 
-<b>Academic Background</b>: B.Tech. Mechanical Engineering (The ICFAI University, Dehradun)
