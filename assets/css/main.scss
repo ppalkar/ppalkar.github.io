@@ -56,8 +56,8 @@ $max-content-width: {{ site.max_width }};
 img.profile-img,
 img.profile-img.rounded,
 img.profile-img.rounded-circle {
-  width: 100px !important;
-  height: 100px !important;
+  width: 180px !important;
+  height: 180px !important;
   object-fit: cover !important;
 }
 
