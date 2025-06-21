@@ -6,8 +6,7 @@ layout: page
     <div class="profile-card">
       {% if profile.image %}
         {% assign profile_image_path = profile.image | prepend: 'assets/img/students/' %}
-        {% assign profile_image_class = profile.image_circular == true | default: false
-          | ternary: 'profile-img rounded-circle', 'profile-img rounded' %}
+        {% assign profile_image_class = 'profile-img' %}
         {% capture sizes %}(min-width: {{site.max_width}}) 200px, 95vw{% endcapture %}
         {% include figure.liquid 
           loading="eager" 
