@@ -84,7 +84,8 @@ jobs:
           pip3 install --upgrade jupyter
           export JEKYLL_ENV=production
           npm install -g sass
-          sass assets/main.scss assets/main.css          
+          sass assets/css/main.scss assets/css/main.css
+          export JEKYLL_ENV=production
           bundle exec jekyll build
       - name: Purge unused CSS 🧹
         run: |
