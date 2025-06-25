@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-06-25 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-More announcements to follow.
+Apurv Negi joins the <a href="https://ppalkar.github.io/students">Optimization and Learning Group</a> at IEOR, IIT Delhi :smile
