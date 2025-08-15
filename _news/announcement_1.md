@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Apurv Negi joins the <a href="https://ppalkar.github.io/students">Optimization and Learning Group</a> at IEOR, IIT Delhi :smile
+Apurv Negi joins the <a href="https://ppalkar.github.io/students">Optimization and Learning Group</a> at IEOR, IIT Delhi :smile:
