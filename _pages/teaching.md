@@ -9,7 +9,7 @@ horizontal: false
 ---
 <h5>2025-2026</h5>
 
-- *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I (upcoming)
+- *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I
 
 <h5>2024-25</h5>
 
