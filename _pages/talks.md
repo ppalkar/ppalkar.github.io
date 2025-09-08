@@ -11,6 +11,8 @@ importance: 2
 
 <h4>2021-2025</h4>
 
+- *Linear, Polynomial and Logistic Regression*, **Continuing Education Program, IIT Delhi, June 23, 2025.**
+
 - *Strategies for Optimizing Resources in Resource Allocation and Management*, **Faculty Development Program, IIIT Jabalpur (online), Feb. 25, 2025.**
 
 - *Mathematical Programming Formulations for Computing Nash Equilibrium of Stochastic Games*, **Tenth Indian Control Conference (ICC-10), IISER Bhopal, India, Dec. 12, 2024.**
