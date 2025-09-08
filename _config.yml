@@ -196,10 +196,10 @@ collections:
     output: true
     permalink: /:collection/:title/
   projects:
-    output: false
+    output: true
     permalink: /projects/:path/
   teaching:
-    output: false # true
+    output: true # true
     permalink: /teaching/:path/
       #permalink: /:collection/:title/
 
