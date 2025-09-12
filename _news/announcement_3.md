@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper titled "Dynamic Traffic Assignment for Electric Vehicles" (joint work with Lukas Graf and Tobias Harks) is finally published in Transportation Research Part B :sparkles: :smile:
+Our paper titled <a href="">Dynamic Traffic Assignment for Electric Vehicles</a> (joint work with Lukas Graf and Tobias Harks) is finally published in Transportation Research Part B :sparkles: :smile:
