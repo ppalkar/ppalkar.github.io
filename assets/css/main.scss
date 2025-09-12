@@ -73,6 +73,8 @@ img.profile-img.rounded-circle {
   margin: 0.5rem 0;
 }
 
+/*
+commented by pp as to correct students page light/dark mode
 @media (prefers-color-scheme: dark) {
   .profile-card {
     background-color: #1e1e1e; // dark background
@@ -92,7 +94,38 @@ img.profile-img.rounded-circle {
     color: #f5f5f5;
   }
 }
+*/
 
+// --- added in lieu of above block --
+
+[data-theme="dark"] .profile-card {
+  background-color: #1e1e1e;
+  color: #f0f0f0;
+  border: 1px solid #333;
+}
+
+[data-theme="dark"] .profile-email {
+  color: #aaa;
+}
+
+[data-theme="dark"] .profile-content a {
+  color: #9ecbff;
+}
+
+[data-theme="dark"] .profile-content h1,
+[data-theme="dark"] .profile-content h2 {
+  color: #f5f5f5;
+}
+
+[data-theme="dark"] .profile-role {
+  color: #aaa;
+}
+
+[data-theme="dark"] .profile-details a {
+  color: #9ecbff;
+}
+
+// ----
 .profile-details {
   text-align: left;
   width: 100%;
@@ -114,13 +147,13 @@ img.profile-img.rounded-circle {
   margin: 0.5rem 0;
 }
 
-@media (prefers-color-scheme: dark) {
-  .profile-role {
-    color: #aaa;
-  }
+//@media (prefers-color-scheme: dark) {
+  //.profile-role {
+    //color: #aaa;
+  //}
 
-  .profile-details a {
-    color: #9ecbff;
-  }
-}
+  //.profile-details a {
+    //color: #9ecbff;
+  //}
+//}
 
