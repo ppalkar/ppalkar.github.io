@@ -1,11 +1,12 @@
 ---
 layout: post
 date: 2024-07-20 12:00:00-0400
+title: A two week visit to the University of Notre Dame
 inline: false
 related_posts: false
 ---
 
-Had a wonderful visit to the <a href="https://lucyinstitute.nd.edu/">Lucy Family Institute for Data & Society</a>, University of Notre Dame, IN, USA, from July 07 to July, 19, 2024, along with my (B.Tech.) student Viraj Vardhan :smile:
+I had a wonderful visit to the <a href="https://lucyinstitute.nd.edu/">Lucy Family Institute for Data & Society</a>, University of Notre Dame, IN, USA, from July 07 to July, 19, 2024, along with my (B.Tech.) student Viraj Vardhan to explore collaborations on Optimization and Learning Projects in the South Bend Region :smile:
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
