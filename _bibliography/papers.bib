@@ -27,6 +27,17 @@ We complement our theoretical results by a computational study in which we desig
   year={2024},
   organization={IEEE},
   pdf={https://ieeexplore.ieee.org/iel8/10883669/10883670/10883722.pdf},
+  abstract={In this paper, we propose a trilinear optimization formulation and four
+      mixed integer bilinear formulations to compute the Nash equilibria of a
+          2-player discounted stochastic game. The trilinear optimization formulation
+          is derived from an existing nonlinear programming problem whose global
+          minimum gives a Nash equilibrium of the discounted stochastic game. The
+          mixed integer bilinear formulations use the optimality condition of a best
+          response Markov decision problem of a player for a fixed strategy of the
+          other player. We compare the performance of our formulations with the
+          existing nonlinear programming formulation. Numerical experiments show that
+          our trilinear formulation outperforms the nonlinear programming formulation
+          as well as the mixed integer bilinear formulations.},
   selected={true}
 }
 
@@ -37,6 +48,28 @@ We complement our theoretical results by a computational study in which we desig
   pages={143--156},
   year={2022},
   html={https://link.springer.com/chapter/10.1007/978-3-031-18530-4_11},
+  abstract={We address detrimental anomalies in parallel versions of two
+      state-of-the-art algorithms for convex mixed-integer nonlinear programs
+          (MINLPs): nonlinear branch-and-bound (NLP-BB) and the LP/NLP based
+                    branch-and-bound (QG). A detrimental anomaly is when a parallel
+                    algorithm performs worse than its sequential counterpart.
+                    Unambiguous node selection functions have been developed in the
+                    past to avoid these anomalies. We extend this notion of
+                    unambiguity to subroutines for branching and generating
+                    linearization cuts. We implement the proposed unambiguous
+                    branching and cut generation strategies alongside unambiguous
+                    node selection in NLP-BB and QG in the open-source MINLP solver
+                    Minotaur. Our computational experiments on convex instances from
+                    the MINLPLib library show that detrimental anomalies can be
+                    reduced to a great extent in practical algorithms. We also
+                    compare these algorithms with opportunistic parallel versions.
+                    Our results highlight that opportunistic versions perform better
+                    in terms of wall clock times, while the deterministic versions
+                    avoid detrimental anomalies with theoretically established
+                    guarantees and also provide reproducible results, a feature that
+                    is desirable while developing parallel algorithms. We recommend
+                    settings in Minotaur that yield opportunistic or deterministic
+                    runs for the parallel NLP-BB and QG algorithms.},
   organization={Springer}
 }
 
@@ -50,6 +83,7 @@ We complement our theoretical results by a computational study in which we desig
   year={2022},
   publisher={Springer},
   html={https://link.springer.com/article/10.1007/s10589-021-00335-x},
+  abstract={We develop and test linearization and parallelization schemes for convex mixed-integer nonlinear programming. Several linearization approaches are proposed for LP/NLP based branch-and-bound. Some of these approaches strengthen the linear approximation to nonlinear constraints at the root node and some at the other branch-and-bound nodes. Two of the techniques are specifically applicable to commonly found univariate nonlinear functions and are more effective than other general approaches. These techniques have been implemented in the Minotaur toolkit. Tests on benchmark instances show up to 12% improvement in the average time to solve the instances. Shared-memory parallel versions of NLP based branch-and-bound and LP/NLP based branch-and-bound algorithms have also been developed in the toolkit. These implementations solve different nodes of branch-and-bound concurrently. About 44% improvement in the speed and an increase in the number of instances solved within the time limit are observed when the two schemes are used together on a computer with 16 cores. These parallelization methods are compared to alternate approaches that exploit parallelism in existing commercial MILP solvers. The latter approaches are seen to perform better thus highlighting the importance of MILP techniques.},
   selected={true}
 }
 
@@ -63,6 +97,7 @@ We complement our theoretical results by a computational study in which we desig
   year={2021},
   publisher={Springer},
   html={https://link.springer.com/article/10.1007/s10898-020-00978-w},
+  abstract={We study the problem of minimizing a convex function on a nonempty, finite subset of the integer lattice when the function cannot be evaluated at noninteger points. We propose a new underestimator that does not require access to (sub)gradients of the objective; such information is unavailable when the objective is a blackbox function. Rather, our underestimator uses secant linear functions that interpolate the objective function at previously evaluated points. These linear mappings are shown to underestimate the objective in disconnected portions of the domain. Therefore, the union of these conditional cuts provides a nonconvex underestimator of the objective. We propose an algorithm that alternates between updating the underestimator and evaluating the objective function. We prove that the algorithm converges to a global minimum of the objective function on the feasible set. We present two approaches for representing the underestimator and compare their computational effectiveness. We also compare implementations of our algorithm with existing methods for minimizing functions on a subset of the integer lattice. We discuss the difficulty of this problem class and provide insights into why a computational proof of optimality is challenging even for moderate problem sizes.},
   selected={true}
 }
 
@@ -71,7 +106,25 @@ We complement our theoretical results by a computational study in which we desig
   author={Graf, Lukas and Harks, Tobias and Palkar, Prashant},
   booktitle={22nd Symposium on Algorithmic Approaches for Transportation Modelling, Optimization, and Systems},
   year={2022},
-  pdf={https://drops.dagstuhl.de/opus/volltexte/2022/17110/pdf/OASIcs-ATMOS-2022-6.pdf}
+  pdf={https://drops.dagstuhl.de/opus/volltexte/2022/17110/pdf/OASIcs-ATMOS-2022-6.pdf},
+  abstract={We initiate the study of dynamic traffic assignment for electrical vehicles addressing the specific
+challenges such as range limitations and the possibility of battery recharge at predefined charging
+locations. We pose the dynamic equilibrium problem within the deterministic queueing model of
+Vickrey and as our main result, we establish the existence of an energy-feasible dynamic equilibrium.
+There are three key modeling-ingredients for obtaining this existence result:
+1. We introduce a walk-based definition of dynamic traffic flows which allows for cyclic routing
+behavior as a result of recharging events en route.
+2. We use abstract convex feasibility sets in an appropriate function space to model the energy-
+feasibility of used walks.
+3. We introduce the concept of capacitated dynamic equilibrium walk-flows which generalize the
+former unrestricted dynamic equilibrium path-flows.
+Viewed in this framework, we show the existence of an energy-feasible dynamic equilibrium by
+applying an infinite dimensional variational inequality, which in turn requires a careful analysis of
+continuity properties of the network loading as a result of injecting flow into walks.
+We complement our theoretical results by a computational study in which we design a fixed-point
+algorithm computing energy-feasible dynamic equilibria. We apply the algorithm to standard
+real-world instances from the traffic assignment community illustrating the complex interplay of
+resulting travel times, energy consumption and prices paid at equilibrium.}
 }
 
 @inproceedings{liu2017mathematical,
@@ -81,7 +134,8 @@ We complement our theoretical results by a computational study in which we desig
   pages={148--157},
   year={2017},
   organization={IEEE},
-  html={https://ieeexplore.ieee.org/document/8109132/}
+  html={https://ieeexplore.ieee.org/document/8109132},
+  abstract={Modern scientific experimental facilities such as x-ray light sources increasingly require on-demand access to large-scale computing for data analysis, for example to detect experimental errors or to select the next experiment. As the number of such facilities, the number of instruments at each facility, and the scale of computational demands all grow, the question arises as to how to meet these demands most efficiently and cost-effectively. A single computer per instrument is unlikely to be cost-effective because of low utilization and high operating costs. A single national compute facility, on the other hand, introduces a single point of failure and perhaps excessive communication costs. We introduce here methods for evaluating these and other potential design points, such as per-facility computer systems and a distributed multisite "superfacility." We use the U.S. Department of Energy light sources as a use case and build a mixed-integer programming model and a customizable superfacility simulator to enable joint optimization of design choices and associated operational decisions. The methodology and tools provide new insights into design choices for on-demand computing facilities for real-time analysis of scientific experiment data. The simulator can also be used to support facility operations, for example by simulating the impact of events such as outages.}
 }
 
 @inproceedings{palkar2015branch,
@@ -91,6 +145,7 @@ We complement our theoretical results by a computational study in which we desig
   pages={1143--1151},
   year={2015},
   html={http://ieeexplore.ieee.org/document/7284438/?reload=true},
+  abstract={We present a method for solving nonconvex mixed-integer nonlinear programs using a branch-and-bound framework. At each node in the search tree, we solve the continuous nonlinear relaxation multiple times using an existing non-linear solver. Since the relaxation we create is in general not convex, this method may not find an optimal solution. In order to mitigate this difficulty, we solve the relaxation multiple times in parallel starting from different initial points. Our preliminary computational experiments show that this approach gives optimal or near-optimal solutions on benchmark problems, and that the method benefits well from parallelism.},
   organization={IEEE}
 }
 
@@ -102,5 +157,22 @@ We complement our theoretical results by a computational study in which we desig
   number={},
   pages={},
   year={2023},
-  publisher={submitted}
+  abstract={Growing organic fruits and vegetables in polyhouses has become
+increasingly popular in India since COVID-19. This practice is commonly
+known as Polyhouse farming. Most of the enterprises involved in polyhouse
+farming manage different areas such as production, transportation, and
+distribution separately, leading to an increase in operating costs. To provide an
+integrated framework for optimizing the overall operating costs, we propose
+a two-stage mathematical optimization-based approach. In the first stage, we
+formulate a mixed-integer linear programming (MILP) model that optimizes
+an approximation of the production and transportation costs and provides an
+allocation of production quantities to different polyhouses and the distribution
+centers (DCs) whose demand they will satisfy. Based on the allocation from
+the first phase, we develop a variant of the Vehicle Routing Problem (VRP) for
+vehicle allocation and optimization of routing and the actual transportation costs
+in the second phase, where the transportation costs practically depend on the load
+carried by the vehicles. Our computational experiments show that the two-phase
+approach can provide near-optimal solutions to instances with up to 300 locations,
+9 products and 6 transportation modes in reasonable time.},
+  publisher={under review}
 }
