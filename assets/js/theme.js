@@ -1,14 +1,24 @@
 // Has to be in the head tag, otherwise a flicker effect will occur.
 
 // Toggle through light, dark, and system theme settings.
+// Old 3-mode toggle logic:
+//let toggleThemeSetting = () => {
+  //let themeSetting = determineThemeSetting();
+  //if (themeSetting == "system") {
+    //setThemeSetting("light");
+  //} else if (themeSetting == "light") {
+    //setThemeSetting("dark");
+  //} else {
+    //setThemeSetting("system");
+  //}
+//};
+
 let toggleThemeSetting = () => {
   let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    setThemeSetting("light");
-  } else if (themeSetting == "light") {
+  if (themeSetting === "light") {
     setThemeSetting("dark");
   } else {
-    setThemeSetting("system");
+    setThemeSetting("light");
   }
 };
 
@@ -23,7 +33,8 @@ let setThemeSetting = (themeSetting) => {
 
 // Apply the computed dark or light theme to the website.
 let applyTheme = () => {
-  let theme = determineComputedTheme();
+  //let theme = determineComputedTheme();
+  let theme = determineThemeSetting();
 
   transTheme();
   setHighlight(theme);
@@ -207,29 +218,37 @@ let transTheme = () => {
 
 // Determine the expected state of the theme toggle, which can be "dark", "light", or
 // "system". Default is "system".
+// Old system fallback:
+//let determineThemeSetting = () => {
+  //let themeSetting = localStorage.getItem("theme");
+  //if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
+    //themeSetting = "system";
+  //}
+  //return themeSetting;
+//};
+
 let determineThemeSetting = () => {
   let themeSetting = localStorage.getItem("theme");
-  if (themeSetting != "dark" && themeSetting != "light" && themeSetting != "system") {
-    themeSetting = "system";
-  }
-  return themeSetting;
+  return themeSetting === "dark" ? "dark" : "light";
 };
+
 
 // Determine the computed theme, which can be "dark" or "light". If the theme setting is
 // "system", the computed theme is determined based on the user's system preference.
-let determineComputedTheme = () => {
-  let themeSetting = determineThemeSetting();
-  if (themeSetting == "system") {
-    const userPref = window.matchMedia;
-    if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
-      return "dark";
-    } else {
-      return "light";
-    }
-  } else {
-    return themeSetting;
-  }
-};
+// commented to avoid 3-toggle mode
+//let determineComputedTheme = () => {
+  //let themeSetting = determineThemeSetting();
+  //if (themeSetting == "system") {
+    //const userPref = window.matchMedia;
+    //if (userPref && userPref("(prefers-color-scheme: dark)").matches) {
+      //return "dark";
+    //} else {
+      //return "light";
+    //}
+  //} else {
+    //return themeSetting;
+  //}
+//};
 
 let initTheme = () => {
   let themeSetting = determineThemeSetting();
@@ -246,7 +265,8 @@ let initTheme = () => {
   });
 
   // Add event listener to the system theme preference change.
-  window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
-    applyTheme();
-  });
+  // Commented to avoid 3-toggle mode
+  //window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change", ({ matches }) => {
+    //applyTheme();
+  //});
 };
