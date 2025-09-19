@@ -62,6 +62,3 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
 <div class="caption">
    Peaceful and serene views. 
 </div>
-
-The code is simple.
-
