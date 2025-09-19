@@ -16,7 +16,7 @@ I had a wonderful visit to the <a href="https://lucyinstitute.nd.edu/">Lucy Fami
         {% include figure.liquid loading="eager" path="assets/img/notreDame/2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/notreDame/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/notreDame/10.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
@@ -24,26 +24,28 @@ I had a wonderful visit to the <a href="https://lucyinstitute.nd.edu/">Lucy Fami
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/notreDame/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/notreDame/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/notreDame/7.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/notreDame/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/notreDame/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Spent some quality time with Viraj. Sometimes, I had to borrow an umbrella
-    :smile:
-<!--<div class="row">-->
-    <!--<div class="col-sm mt-3 mt-md-0">-->
-        <!--{% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}-->
-    <!--</div>-->
-<!--</div>-->
-<!--<div class="caption">-->
-    <!--This image can also have a caption. It's like magic.-->
-<!--</div>-->
+    Spent some quality time with Viraj. Sometimes, I had to borrow an umbrella :smile:
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/notreDame/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/notreDame/9.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    Few of my favourite spots.
+</div>
 
 You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
 Say you wanted to write a bit about your project before you posted the rest of the images.
@@ -58,7 +60,7 @@ You describe how you toiled, sweated, _bled_ for your project, and then... you r
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+   Peaceful and serene views. 
 </div>
 
 The code is simple.
