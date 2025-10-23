@@ -2,8 +2,7 @@
 layout: profiles
 permalink: /people/
 title: Students
-description: Members of the Optimization and Learning group @ IEOR Lab (led jointly
-with <a href="https://web.iitd.ac.in/~asrvstv">Prof. Amber Srivastava</a>), IIT Delhi
+description: Members of the Optimization and Learning group @ IEOR Lab (led jointly with Prof. Amber Srivastava), IIT Delhi
 nav: true
 nav_order: 7
 
