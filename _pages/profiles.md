@@ -1,7 +1,7 @@
 ---
 layout: profiles
-permalink: /people/
-title: Students
+permalink: /team/
+title: My Team
 description: Members of the Optimization and Learning group @ IEOR Lab (led jointly with Prof. Amber Srivastava), IIT Delhi
 nav: true
 nav_order: 7
