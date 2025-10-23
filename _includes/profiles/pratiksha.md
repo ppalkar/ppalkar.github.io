@@ -5,7 +5,7 @@
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
-    Timetabling of Indian Railways via Constraint Programming and Integer Programming
+    An MILP-Based Decomposition Heuristic for Large-Scale Train Timetabling for Indian Railways
   </p>
 
   <p><strong>Research Interests:</strong><br>

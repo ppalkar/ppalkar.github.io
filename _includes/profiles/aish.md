@@ -5,7 +5,7 @@
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
-    Decomposition techniques for precision timetabling of Indian Railways
+    A Multi-Objective Optimization Approach for Large-Scale Train Timetabling
   </p>
 
   <p><strong>Research Interests:</strong><br>
