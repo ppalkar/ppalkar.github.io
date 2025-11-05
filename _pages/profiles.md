@@ -20,7 +20,7 @@ profiles:
     content: manoj.md
     image_circular: false # crops the image to make it circular
     more_info: >
-     <p>qiz248205@iitd.ac.in</p>
+     <p>qiz248201@iitd.ac.in</p>
   - align: right
     image: apurv.jpg
     content: apurv.md
