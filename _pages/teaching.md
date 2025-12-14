@@ -9,6 +9,12 @@ horizontal: false
 ---
 <h5>2025-2026</h5>
 
+- *Integer Programming (MEL7111)*, IIT Delhi, Sem. II (upcoming)
+
+- *Operations Research Laboratory - I (MEP3027)* with Prof. Amber Srivastava, IIT Delhi, Sem. II (upcoming)
+
+- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Amber Srivastava, Sem. II (upcoming)
+
 - *Mathematical Programming (MEL7101)*, IIT Delhi, Sem. I
 
 <h5>2024-25</h5>
