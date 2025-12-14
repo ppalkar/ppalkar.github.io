@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-20 12:00:00-0400
-title: A two week visit to the University of Notre Dame
+date: 2025-12-03 12:00:00-0400
+title: Visit to IIT Jodhpur
 inline: false
 related_posts: false
 ---
