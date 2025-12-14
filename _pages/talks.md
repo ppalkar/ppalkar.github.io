@@ -11,11 +11,13 @@ importance: 2
 
 <h4>2021-2025</h4>
 
+- *3D Packing Optimization using Clustering and Integer Programming*, **5th International Conference on Nonlinear Applied Analysis and Optimization (** <a href="https://sites.google.com/iitj.ac.in/icnaao-2025/home">ICNAAO</a>**), December 4-6, 2025**
+
 - *Linear, Polynomial and Logistic Regression*, **Continuing Education Program, IIT Delhi, June 23, 2025.**
 
 - *Strategies for Optimizing Resources in Resource Allocation and Management*, **Faculty Development Program, IIIT Jabalpur (online), Feb. 25, 2025.**
 
-- *Mathematical Programming Formulations for Computing Nash Equilibrium of Stochastic Games*, **Tenth Indian Control Conference (ICC-10), IISER Bhopal, India, Dec. 12, 2024.**
+- *Mathematical Programming Formulations for Computing Nash Equilibrium of Stochastic Games*, **Tenth Indian Control Conference (** <a href="https://controlsociety.org/ICC24/ICC24_WelcomeGCMedia.html">ICC-10</a>**), IISER Bhopal, India, Dec. 12, 2024.**
 
 - *Delayed Column Generation and the Cutting Stock Problem*, **Advanced Workshop on Combinatorial Optimization, Department of Management Studies, IIT Delhi, April 09, 2024.**
 
