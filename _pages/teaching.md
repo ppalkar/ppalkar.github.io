@@ -11,7 +11,7 @@ horizontal: false
 
 - *Integer Programming (MEL7111)*, IIT Delhi, Sem. II (upcoming)
 
-- *Operations Research Laboratory - I (MEP3027)* with Prof. Amber Srivastava, IIT Delhi, Sem. II (upcoming)
+- *Operations Research Laboratory (MEP3027)* with Prof. Amber Srivastava, IIT Delhi, Sem. II (upcoming)
 
 - *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Amber Srivastava, Sem. II (upcoming)
 
