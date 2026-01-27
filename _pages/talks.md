@@ -11,7 +11,7 @@ importance: 2
 
 <h4>2021-2025</h4>
 
-- *An Integer Programming-based Decomposition Heuristic for Large-Scale Railway Timetabling*, **Applications of Operations Research and Data Analytics in Transportation and Logistics (ODTL 2025), Centre of Excellence in Logistics and Supply Chain Management (CoELSCM) and Department of Mechanical Engineering, NIT Calicut (online), December 17, 2025**
+- *An Integer Programming-based Decomposition Heuristic for Large-Scale Railway Timetabling*, **Applications of Operations Research and Data Analytics in Transportation and Logistics (ODTL 2025), Centre of Excellence in Logistics and Supply Chain Management (CoELSCM) and Department of Mechanical Engineering, NIT Calicut (online, jointly with Apurv Negi), December 17, 2025**
 
 - *3D Packing Optimization using Clustering and Integer Programming*, **5th International Conference on Nonlinear Applied Analysis and Optimization (** <a href="https://sites.google.com/iitj.ac.in/icnaao-2025/home">ICNAAO</a>**), December 4-6, 2025**
 
