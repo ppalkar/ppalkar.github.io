@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-10-13 16:48:00-0400
+date: 2026-03-18 01:59:00-0400
 title: Upcoming talk at MSSME 2026
 inline: true
 related_posts: false
