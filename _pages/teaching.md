@@ -7,9 +7,15 @@ nav: true
 nav_order: 6
 horizontal: false
 ---
-<h5>2025-2026</h5>
+<h5>2026-27</h5>
 
 - *Integer Programming (MEL7111)*, IIT Delhi, Sem. II (upcoming)
+
+- *Probability and Statistics (MEL7102)*, IIT Delhi, Sem. I
+
+<h5>2025-2026</h5>
+
+- *Integer Programming (MEL7111)*, IIT Delhi, Sem. II
 
 - *Operations Research Laboratory (MEP3027)* with Prof. Amber Srivastava, IIT Delhi, Sem. II (upcoming)
 
