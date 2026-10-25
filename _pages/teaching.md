@@ -51,7 +51,7 @@ horizontal: false
 
 <h2> Workshops/Special Modules</h2>
 
-- Conducted a 7-day course on *Fundamentals of Optimization and Simulation* for about 80 officers and young professionals from *Centre for Railway Information Systems (CRIS)* with Kartikey Sharma, Amber Srivastava, Varun Ramamohan and Pramesh Kumar at **IIT Delhi, May 11-21, 2026**. Topics: Linear and Nonlinear Optimization, Integer Programming, Probability and Statistics, and Discrete Event Systems Simulation, with theoretical and computational exercises after each topic.
+- Conducted a 7-day *Workshop on Foundations of Optimization and Simulation* for about 80 officers and young professionals from *Centre for Railway Information Systems (CRIS)* with Kartikey Sharma, Amber Srivastava, Varun Ramamohan and Pramesh Kumar at **IIT Delhi, May 11-21, 2026**. Topics: Linear and Nonlinear Optimization, Integer Programming, Probability and Statistics, and Discrete Event Systems Simulation, with theoretical and computational exercises after each topic.
 
 - Conducted a *Continuing Education Program (CEP)* course for 50 officers from *Centre for Railway Information Systems (CRIS)* with Amber Srivastava and Shaurya Shriyam at **IIT Delhi, March 06-12, 2024**.
 
