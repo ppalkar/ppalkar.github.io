@@ -11,6 +11,8 @@ horizontal: false
 
 - *Integer Programming (MEL7111)*, IIT Delhi, Sem. II (upcoming)
 
+- *Industrial Engineering Laboratory (MCP261)* with Prof. Amber Srivastava, IIT Delhi, Sem. II (upcoming)
+
 - *Probability and Statistics (MEL7102)*, IIT Delhi, Sem. I
 
 <h5>2025-2026</h5>
