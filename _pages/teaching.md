@@ -49,15 +49,15 @@ horizontal: false
 
 - *Advanced Operations Research (MCL865)* with <a href="https://web.iitd.ac.in/~varunr">Prof. Varun Ramamohan</a>, IIT Delhi, Sem. II
 
-- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with Prof. Shaurya Shriyam and Prof. Sagar Sarkar
+- *Artificial Intelligence and Machine Learning (as part of PGDEx–VLFM Module-3)* with <a href="https://web.iitd.ac.in/~shriyam">Prof. Shaurya Shriyam</a> and <a href="https://mech.iitd.ac.in/faculty-profile/197">Prof. Sagar Sarkar</a>
 
 <h2> Workshops/Special Modules</h2>
 
-- Conducted a 5-day *Faculty Development Program on Python Programming* for 50 school teachers from Punjab with Arpan Gupta and Kartikey Sharma at **IIT Delhi, July 06-10, 2026**.
+- Conducted a 5-day *Faculty Development Program on Python Programming* for 50 school teachers from Punjab with <a href="https://web.iitd.ac.in/~apn">Arpan Gupta</a> and <a href="https://web.iitd.ac.in/~ksharma">Kartikey Sharma</a> at **IIT Delhi, July 06-10, 2026**.
 
-- Conducted a 7-day *Workshop on Foundations of Optimization and Simulation* for about 80 officers and young professionals from *Centre for Railway Information Systems (CRIS)* with Kartikey Sharma, Amber Srivastava, Varun Ramamohan and Pramesh Kumar at **IIT Delhi, May 11-21, 2026**. Topics: Linear and Nonlinear Optimization, Integer Programming, Probability and Statistics, and Discrete Event Systems Simulation, with theoretical and computational exercises after each topic.
+- Conducted a 7-day *Workshop on Foundations of Optimization and Simulation* for about 80 officers and young professionals from *Centre for Railway Information Systems (CRIS)* with Profs. <a href="https://web.iitd.ac.in/~ksharma">Kartikey Sharma<\a>, <a href="https://web.iitd.ac.in/~asrvstv">Amber Srivastava<\a>, <a href="https://web.iitd.ac.in/~varunr">Varun Ramamohan<\a> and <a href="https://prameshk.github.io">Pramesh Kumar</a> at **IIT Delhi, May 11-21, 2026**. Topics: Linear and Nonlinear Optimization, Integer Programming, Probability and Statistics, and Discrete Event Systems Simulation, with theoretical and computational exercises after each topic.
 
-- Conducted a *Continuing Education Program (CEP)* course for 50 officers from *Centre for Railway Information Systems (CRIS)* with Amber Srivastava and Shaurya Shriyam at **IIT Delhi, March 06-12, 2024**.
+- Conducted a *Continuing Education Program (CEP)* course for 50 officers from *Centre for Railway Information Systems (CRIS)* with <a href="https://web.iitd.ac.in/~asrvstv">Amber Srivastava<\a> and <a href="https://web.iitd.ac.in/~shriyam">Prof. Shaurya Shriyam</a> at **IIT Delhi, March 06-12, 2024**.
 
 - Conducted a *preconference workshop* on *Solving Mixed-Integer Nonlinear Optimization Problems with MINOTAUR* jointly with Meenarli Sharma, Mustafa Vora and Prof. Ashutosh Mahajan in **52nd Annual Convention of ORSI & International Conference, IIM Ahmedabad, India, December 15, 2019.**
 
