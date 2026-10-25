@@ -11,6 +11,8 @@ importance: 2
 
 <h4>2026-2030</h4>
 
+- Invited talk (upcoming), **2nd International Conference on Mathematical Optimization Theory and Applications (** <a href="https://conferences.iitbhu.ac.in/ICMOTA-2027/">ICMOTA 2027</a>**), Department of Mathematical Sciences, IIT (BHU) Varanasi, February 19-21, 2027.**
+
 - *Polyhedral Theory for Integer Programming*, **1st Large Scale Optimization Advanced School (** <a href="https://iitr.ac.in/lso/">LSO Advanced School 2026</a>**), Department of Management Studies, IIT Roorkee, September 30, 2026.**
 
 - *Mixed-Integer Nonlinear Programming*, **6th Large-Scale Optimization Summer School (** <a href="https://lso2026.iitd.ac.in/">LSO 2026</a>**), IIT Delhi, June 4, 2026.**
