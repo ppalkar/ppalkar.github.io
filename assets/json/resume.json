@@ -167,11 +167,25 @@
   ],
   "projects": [
     {
+      "name": "Spare parts forecasting for Make-to-Order inventory (ThermoFisher)",
+      "summary": "Involves improvement of prediction accuracy through advanced analytics and customer segmentation.",
+      "highlights": ["Data Analytics", "AI/ML"],
+      "startDate": "2026-11-01",
+      "endDate": "2027-04-30"
+    },
+    {
+      "name": "Advanced Scheduling Optimization for Road-Train Operations (Delhivery)",
+      "summary": "Involves optimization of routes and scheduling using state-of-art optimization algorithms and computing techniques.",
+      "highlights": ["Integer Programming", "Heuristics", "Constraint Programming", "AI/ML"],
+      "startDate": "2026-10-08",
+      "endDate": "2027-10-07"
+    },
+    {
       "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
       "summary": "Involves timetabling of passenger trains using state-of-art optimization algorithms and computing techniques for Indian railways.",
       "highlights": ["Constraint Programming", "Integer Programming", "Heuristics"],
       "startDate": "2024-11-14",
-      "endDate": "2026-01-13"
+      "endDate": "2027-02-28"
     },
     {
       "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons (with Thermofisher Scientific)",
@@ -185,7 +199,7 @@
       "summary": "Involves arriving at dynamic pricing strategies for freight trains for Indian Railways.",
       "highlights": ["Machine Learning", "Stackelberg Games", "Optimization"],
       "startDate": "2024-11-14",
-      "endDate": "2026-01-13"
+      "endDate": "2026-10-30"
     },
     {
       "name": "Theoretical, Computational And Software Advancements In Mixed-Integer Nonlinear Optimization (IRD, IIT Delhi)",
@@ -195,18 +209,18 @@
       "endDate": "2025-12-31"
     },
     {
-      "name": "Development of an Automated Optimal Airline Disruption Management System (with InterGlobe Aviation Ltd (Indigo Airlines))",
+      "name": "Development of an Automated Optimal Airline Disruption Management System (with InterGlobe Aviation Ltd (Indigo Airlines)) - Co-PI",
       "summary": "Involves development of a robust learning and optimization based agent to minimize the cascading losses due to various disruptions.",
       "highlights": ["Machine Learning", "Simulation", "Optimization"],
-      "startDate": "2022-12-01",
-      "endDate": "2025-12-31"
+      "startDate": "2025-03-03",
+      "endDate": "2026-08-31"
     },
     {
-      "name": "Automatic segmentation and reduction of anomalies in joints for presurgical planning (with Orthopaedics team, MAMC)",
+      "name": "Automatic segmentation and reduction of anomalies in joints for presurgical planning (ARG, ANRF, with Orthopaedics team, MAMC)",
       "summary": "Involves development of a tool for automatic anomaly detection, segmentation and reduction of joint fracture fragments and tumors for presurgical planning.",
       "highlights": ["Machine Learning", "Optimization", "Image Processing"],
-      "startDate": "2025-01-01",
-      "endDate": "2025-12-31"
+      "startDate": "2026-03-20",
+      "endDate": "2029-03-19"
     }
   ],
   "volunteer": [
@@ -214,14 +228,15 @@
       "name": "Reviewer",
       "keywords": [
           "Computational Optimization and Applications",
-          "Informs Journal of Computing",
+          "Informs Journal on Computing",
           "Discrete Applied Mathematics",
+          "Operational Research",
           "Saadhana"
       ],
       "icon": "fa-solid fa-tag"
     },
     {
-      "name": "IEOR Systems and Website Administrator, IIT Delhi",
+      "name": "IEOR Systems and Website Incharge, IIT Delhi",
       "icon": "fa-solid fa-tag",
       "keywords": [
         "Multicore High-end Debian Servers",
