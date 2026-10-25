@@ -9,6 +9,14 @@ nav_order: 3
 importance: 2
 ---
 
+<h4>2026-2030</h4>
+
+- *Polyhedral Theory for Integer Programming*, **1st Large Scale Optimization Advanced School (** <a href="https://iitr.ac.in/lso/">LSO Advanced School 2026</a>**), Department of Management Studies, IIT Roorkee, September 30, 2026.**
+
+- *Mixed-Integer Nonlinear Programming*, **6th Large-Scale Optimization Summer School (** <a href="https://lso2026.iitd.ac.in/">LSO 2026</a>**), IIT Delhi, June 4, 2026.**
+
+- *Delayed Column Generation and the Cutting Stock Problem* (hands-on session), **6th Large-Scale Optimization Summer School (** <a href="https://lso2026.iitd.ac.in/">LSO 2026</a>**), IIT Delhi, June 3, 2026.**
+
 <h4>2021-2025</h4>
 
 - *An Integer Programming-based Decomposition Heuristic for Large-Scale Railway Timetabling*, **Applications of Operations Research and Data Analytics in Transportation and Logistics (ODTL 2025), Centre of Excellence in Logistics and Supply Chain Management (CoELSCM) and Department of Mechanical Engineering, NIT Calicut (online, jointly with Apurv Negi), December 17, 2025**
