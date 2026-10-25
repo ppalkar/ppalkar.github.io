@@ -19,7 +19,7 @@
     {
       "name": "Indian Institute of Technology Delhi",
       "position": "Assistant Professor, IEOR, Department of Mechanical Engineering",
-      "url": "https://ppalkar.github.io",
+      "url": "https://mech.iitd.ac.in/",
       "startDate": "2022-12-01",
       "endDate": "Present",
       "summary": "Working in the areas of Integer Programming, Machine Learning and Algorithmic Game Theory currently at IEOR, ME, IIT Delhi.",
@@ -62,7 +62,7 @@
       "homepage": true
     },
     {
-      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, US",
+      "name": "Mathematics and Computer Science Division, Argonne National Laboratory, Lemont, IL, USA",
       "position": "Research Aide",
       "url": "https://www.anl.gov/mcs",
       "startDate": "2017-03-27",
@@ -74,12 +74,12 @@
     {
       "name": "Tata Steel",
       "position": "Manager and subsequently, Senior Manager, Process Modelling and Visualization, Technology Group Global Wires and Longs",
-      "url": "www.tatasteel.com",
+      "url": "https://www.tatasteel.com",
       "startDate": "2009-10-05",
       "endDate": "2013-07-09",
-      "summary": "Modelled and provided solutions to optimization problems like 1D cuttingstock problem with multiple stock sizes, job-shop scheduling, vehicle loading (2D) etc. using heuristics and CPLEX solver in long products segment of steel; developed software (using C++, Vb.net, SQL) with embedded optimization modules for end-to-end management of `Cut and Bend' business centres of Tata Steel Ltd. and its partners in Singapore, China, Thailand and India via multiple site visits and customer interactions",
+      "summary": "Modelled and provided solutions to optimization problems like 1D cutting-stock problem with multiple stock sizes, job-shop scheduling, vehicle loading (2D) etc. using heuristics and CPLEX solver in long products segment of steel; developed software (using C++, Vb.net, SQL) with embedded optimization modules for end-to-end management of `Cut and Bend' business centres of Tata Steel Ltd. and its partners in Singapore, China, Thailand and India via multiple site visits and customer interactions",
       "highlights": ["Cutting and Loading, Scheduling, Heuristics, CPLEX"],
-      "homepage_keyword": "Mathematics and Computer Science Division",
+      "homepage_keyword": "Technology Group Global Wires and Longs",
       "homepage_description": "Senior Manager, Process Modelling and Visualization",
       "homepage_title": "Tata Steel",
       "img": "assets/img/experience/tataNiceLogo.png",
@@ -100,7 +100,7 @@
       "institution": "IEOR, Indian Institute of Technology Bombay",
       "location": "Mumbai, India",
       "url": "https://www.ieor.iitb.ac.in/",
-      "area": "Vechile Routing Problems, Integer Programming",
+      "area": "Vehicle Routing Problems, Integer Programming",
       "studyType": "Master of Technology",
       "startDate": "2007-07-01",
       "endDate": "2009-06-30"
@@ -175,14 +175,14 @@
     },
     {
       "name": "Advanced Scheduling Optimization for Road-Train Operations (Delhivery)",
-      "summary": "Involves optimization of routes and scheduling using state-of-art optimization algorithms and computing techniques.",
+      "summary": "Involves optimization of routes and scheduling using state-of-the-art optimization algorithms and computing techniques.",
       "highlights": ["Integer Programming", "Heuristics", "Constraint Programming", "AI/ML"],
       "startDate": "2026-10-08",
       "endDate": "2027-10-07"
     },
     {
       "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
-      "summary": "Involves timetabling of passenger trains using state-of-art optimization algorithms and computing techniques for Indian railways.",
+      "summary": "Involves timetabling of passenger trains using state-of-the-art optimization algorithms and computing techniques for Indian railways.",
       "highlights": ["Constraint Programming", "Integer Programming", "Heuristics"],
       "startDate": "2024-11-14",
       "endDate": "2027-02-28"
@@ -228,10 +228,10 @@
       "name": "Reviewer",
       "keywords": [
           "Computational Optimization and Applications",
-          "Informs Journal on Computing",
+          "INFORMS Journal on Computing",
           "Discrete Applied Mathematics",
           "Operational Research",
-          "Saadhana"
+          "Sādhanā"
       ],
       "icon": "fa-solid fa-tag"
     },
