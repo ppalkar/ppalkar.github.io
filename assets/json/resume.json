@@ -167,7 +167,7 @@
   ],
   "projects": [
     {
-      "name": "Spare parts forecasting for Make-to-Order inventory (ThermoFisher)",
+      "name": "Spare parts forecasting for Make-to-Order inventory (Thermo Fisher Scientific)",
       "summary": "Involves improvement of prediction accuracy through advanced analytics and customer segmentation.",
       "highlights": ["Data Analytics", "AI/ML"],
       "startDate": "2026-11-01",
@@ -188,7 +188,7 @@
       "endDate": "2027-02-28"
     },
     {
-      "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons (with Thermofisher Scientific)",
+      "name": "3D Packing Optimization of rectangular SKUs within rectangular cartons (with Thermo Fisher Scientific)",
       "summary": "Involves developing optimization and learning techniques to arrive at optimal type and number of cartons and optimal placement of SKUs within them.",
       "highlights": ["Mixed-Integer Linear Programming", "Clustering", "Decomposition"],
       "startDate": "2024-07-01",
