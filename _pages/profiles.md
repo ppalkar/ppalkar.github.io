@@ -47,6 +47,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>mey247593@iitd.ac.in</p>
+
+# Past team members: graduated students and past staff.
+# Move an entry here from 'profiles' above when someone leaves; same format.
+past_profiles:
   - align: right
     image: pratiksha.jpg
     content: pratiksha.md
