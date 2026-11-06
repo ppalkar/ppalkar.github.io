@@ -22,7 +22,11 @@ profiles:
     more_info: >
      <p>qiz248201@iitd.ac.in</p>
   - align: left
+    image: harsh.jpg
     content: harsh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mez268230@iitd.ac.in</p>
   - align: right
     image: apurv.jpg
     content: apurv.md
