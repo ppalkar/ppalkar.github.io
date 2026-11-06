@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /team/
 title: My Team
-description: Members of the Optimization and Learning group @ IEOR Lab (led jointly with Prof. Amber Srivastava), IIT Delhi
+description: 'Members of the Optimization and Learning group @ IEOR Lab (led jointly with <a href="https://web.iitd.ac.in/~asrvstv">Prof. Amber Srivastava</a> and <a href="https://web.iitd.ac.in/~ksharma">Prof. Kartikey Sharma</a>), IIT Delhi'
 nav: true
 nav_order: 7
 
@@ -21,6 +21,12 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>qiz248201@iitd.ac.in</p>
+  - align: left
+    image: harsh.jpg
+    content: harsh.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+     <p>mez268230@iitd.ac.in</p>
   - align: right
     image: apurv.jpg
     content: apurv.md
@@ -45,6 +51,10 @@ profiles:
     image_circular: false # crops the image to make it circular
     more_info: >
      <p>mey247593@iitd.ac.in</p>
+
+# Past team members: graduated students and past staff.
+# Move an entry here from 'profiles' above when someone leaves; same format.
+past_profiles:
   - align: right
     image: pratiksha.jpg
     content: pratiksha.md

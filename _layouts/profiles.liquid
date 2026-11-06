@@ -3,32 +3,17 @@ layout: page
 ---
 <div class="profile-grid">
   {% for profile in page.profiles %}
-    <div class="profile-card">
-      {% if profile.image %}
-        {% assign profile_image_path = profile.image | prepend: 'assets/img/students/' %}
-        {% assign profile_image_class = 'profile-img' %}
-        {% capture sizes %}(min-width: {{site.max_width}}) 200px, 95vw{% endcapture %}
-        {% include figure.liquid 
-          loading="eager" 
-          path=profile_image_path 
-          class=profile_image_class 
-          sizes=sizes 
-          alt=profile.image 
-        %}
-      {% endif %}
-
-      {% if profile.more_info %}
-        <div class="profile-email">{{ profile.more_info }}</div>
-      {% endif %}
-
-      <div class="profile-content">
-        {% if profile.content %}
-          {% include profiles/{{ profile.content }} %}
-        {% else %}
-          {{ content }}
-        {% endif %}
-      </div>
-    </div>
+    {% include profile_card.liquid profile=profile %}
   {% endfor %}
 </div>
 
+{% if page.past_profiles %}
+  <h2 class="mt-5 mb-0">Past Team Members</h2>
+  <div class="profile-grid">
+    {% for profile in page.past_profiles %}
+      {% include profile_card.liquid profile=profile %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+{{ content }}
