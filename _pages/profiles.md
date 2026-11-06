@@ -13,44 +13,37 @@ profiles:
     image: kishan.jpg
     content: kishan.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p> qiz248205@uqidar.iitd.ac.in</p>
+    email: qiz248205@uqidar.iitd.ac.in
   - align: left
     image: manoj.jpg
     content: manoj.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>qiz248201@iitd.ac.in</p>
+    email: qiz248201@iitd.ac.in
   - align: left
     image: harsh.jpg
     content: harsh.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mez268230@iitd.ac.in</p>
+    email: mez268230@iitd.ac.in
   - align: right
     image: apurv.jpg
     content: apurv.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p> apurvnegi1998@gmail.com</p>
+    email: apurvnegi1998@gmail.com
   - align: left
     image: avni.jpeg
     content: avni.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mez248604@iitd.ac.in</p>
+    email: mez248604@iitd.ac.in
   - align: right
     image: vivek.jpeg
     content: vivek.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mez238292@iitd.ac.in</p>
+    email: mez238292@iitd.ac.in
   - align: left
     image: nayan.jpeg
     content: nayan.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mey247593@iitd.ac.in</p>
+    email: mey247593@iitd.ac.in
 
 # Past team members: graduated students and past staff.
 # Move an entry here from 'profiles' above when someone leaves; same format.
@@ -59,18 +52,15 @@ past_profiles:
     image: pratiksha.jpg
     content: pratiksha.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mee242647@iitd.ac.in</p>
+    email: mee242647@iitd.ac.in
   - align: left
     image: aish.jpeg
     content: aish.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>mee242868@iitd.ac.in</p>
+    email: mee242868@iitd.ac.in
   - align: right
     image: shubhang.jpeg
     content: shubhang.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-     <p>shubhangkpant@gmail.com</p>
+    email: shubhangkpant@gmail.com
 ---

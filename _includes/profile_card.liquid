@@ -2,6 +2,8 @@
   One team-member card. Used by _layouts/profiles.liquid for both
   current members (page.profiles) and past members (page.past_profiles).
   Pass the entry as profile=...
+  Fields: image (in assets/img/students/), content (in _includes/profiles/),
+  email (shown last, as a mailto link).
 {% endcomment %}
 {% assign profile = include.profile %}
 <div class="profile-card">
@@ -10,7 +12,7 @@
     {% assign profile_image_class = 'profile-img' %}
     {% capture sizes %}(min-width: {{site.max_width}}) 200px, 95vw{% endcapture %}
     {% include figure.liquid
-      loading="eager"
+      loading="lazy"
       path=profile_image_path
       class=profile_image_class
       sizes=sizes
@@ -18,13 +20,15 @@
     %}
   {% endif %}
 
-  {% if profile.more_info %}
-    <div class="profile-email">{{ profile.more_info }}</div>
-  {% endif %}
-
   <div class="profile-content">
     {% if profile.content %}
       {% include profiles/{{ profile.content }} %}
+    {% endif %}
+
+    {% if profile.email %}
+      <p><strong>Email:</strong><br>
+        <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+      </p>
     {% endif %}
   </div>
 </div>
