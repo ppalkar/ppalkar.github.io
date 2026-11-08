@@ -26,9 +26,11 @@
     {% endif %}
 
     {% if profile.email %}
-      <p><strong>Email:</strong><br>
-        <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
-      </p>
+      <div class="profile-details">
+        <p><strong>Email:</strong><br>
+          <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+        </p>
+      </div>
     {% endif %}
   </div>
 </div>
