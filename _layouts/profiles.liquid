@@ -1,11 +1,46 @@
 ---
 layout: page
 ---
-<div class="profile-grid">
-  {% for profile in page.profiles %}
-    {% include profile_card.liquid profile=profile %}
+{% comment %}
+  Current members are shown in sections, in the order of page.member_groups;
+  each member's 'category' picks the section. Members with no category
+  (or an unknown one) are listed at the end, so nobody is left off.
+{% endcomment %}
+{% if page.member_groups %}
+  {% assign known_ids = page.member_groups | map: "id" %}
+  {% for category in page.member_groups %}
+    {% assign members = page.profiles | where: "category", category.id %}
+    {% if members.size > 0 %}
+      <h2 class="{% if forloop.first %}mt-3{% else %}mt-5{% endif %} mb-0">{{ category.title }}</h2>
+      <div class="profile-grid">
+        {% for profile in members %}
+          {% include profile_card.liquid profile=profile %}
+        {% endfor %}
+      </div>
+    {% endif %}
   {% endfor %}
-</div>
+
+  {% assign others = "" | split: "" %}
+  {% for profile in page.profiles %}
+    {% unless known_ids contains profile.category %}
+      {% assign others = others | push: profile %}
+    {% endunless %}
+  {% endfor %}
+  {% if others.size > 0 %}
+    <h2 class="mt-5 mb-0">Other Members</h2>
+    <div class="profile-grid">
+      {% for profile in others %}
+        {% include profile_card.liquid profile=profile %}
+      {% endfor %}
+    </div>
+  {% endif %}
+{% else %}
+  <div class="profile-grid">
+    {% for profile in page.profiles %}
+      {% include profile_card.liquid profile=profile %}
+    {% endfor %}
+  </div>
+{% endif %}
 
 {% if page.past_profiles %}
   <h2 class="mt-5 mb-0">Past Team Members</h2>
