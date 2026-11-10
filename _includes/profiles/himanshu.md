@@ -1,7 +1,7 @@
 <div class="profile-details">
   <h2 class="profile-name">Himanshu Pandey</h2>
   <p class="profile-role">
-    M.Tech. Student (2025–2027), IEOR, IIT Delhi
+    M.Tech. Student, IEOR, IIT Delhi
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
@@ -9,10 +9,10 @@
   </p>
 
   <p><strong>Research Interests:</strong><br>
-    Linear Programming and Integer Programming, Supply Chain Management &amp; Logistics, Constraint Programming
+    Integer Programming, Supply Chain Management &amp; Logistics, Constraint Programming
   </p>
 
   <p><strong>Academic Background:</strong><br>
-    B.Tech. Mechanical and Automation Engineering
+    B.Tech. Mechanical and Automation Engineering (MAIT, Delhi)
   </p>
 </div>
