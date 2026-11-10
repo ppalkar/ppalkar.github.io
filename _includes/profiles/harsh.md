@@ -1,5 +1,5 @@
 <div class="profile-details">
-  <h2 class="profile-name">Harsh Kumar</h2>
+  <h2 class="profile-name">Harsh Varshney</h2>
   <p class="profile-role">
     Research Scholar (PhD), IEOR, IIT Delhi
   </p>
