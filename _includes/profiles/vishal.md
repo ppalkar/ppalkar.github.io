@@ -1,7 +1,7 @@
 <div class="profile-details">
   <h2 class="profile-name">Vishal Maurya</h2>
   <p class="profile-role">
-    M.Tech. Student (2025–2027), IEOR, IIT Delhi
+    M.Tech. Student, IEOR, IIT Delhi
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
@@ -13,6 +13,6 @@
   </p>
 
   <p><strong>Academic Background:</strong><br>
-    B.Tech. Mechanical Engineering
+    B.Tech. Mechanical Engineering (MDU, Rohtak)
   </p>
 </div>
