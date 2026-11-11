@@ -178,7 +178,7 @@
       "summary": "Involves optimization of routes and scheduling using state-of-the-art optimization algorithms and computing techniques.",
       "highlights": ["Integer Programming", "Heuristics", "Constraint Programming", "AI/ML"],
       "startDate": "2026-10-08",
-      "endDate": "2027-10-07"
+      "endDate": "2027-11-30"
     },
     {
       "name": "Precision Timetabling for Indian Railways (with Centre for Railway Information Systems (CRIS))",
@@ -199,7 +199,7 @@
       "summary": "Involves arriving at dynamic pricing strategies for freight trains for Indian Railways.",
       "highlights": ["Machine Learning", "Stackelberg Games", "Optimization"],
       "startDate": "2024-11-14",
-      "endDate": "2026-10-30"
+      "endDate": "2027-01-31"
     },
     {
       "name": "Theoretical, Computational And Software Advancements In Mixed-Integer Nonlinear Optimization (IRD, IIT Delhi)",
