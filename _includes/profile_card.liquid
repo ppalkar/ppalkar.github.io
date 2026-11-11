@@ -3,7 +3,7 @@
   current members (page.profiles) and past members (page.past_profiles).
   Pass the entry as profile=...
   Fields: image (in assets/img/students/), content (in _includes/profiles/),
-  email (shown last, as a mailto link).
+  email (shown last, as a mailto link), or emails: a list for several.
 {% endcomment %}
 {% assign profile = include.profile %}
 <div class="profile-card">
@@ -25,10 +25,11 @@
       {% include profiles/{{ profile.content }} %}
     {% endif %}
 
-    {% if profile.email %}
+    {% if profile.email or profile.emails %}
       <div class="profile-details">
-        <p><strong>Email:</strong><br>
-          <a href="mailto:{{ profile.email }}">{{ profile.email }}</a>
+        <p><strong>Email:</strong>
+          {% if profile.email %}<br><a href="mailto:{{ profile.email }}">{{ profile.email }}</a>{% endif %}
+          {% for e in profile.emails %}<br><a href="mailto:{{ e }}">{{ e }}</a>{% endfor %}
         </p>
       </div>
     {% endif %}

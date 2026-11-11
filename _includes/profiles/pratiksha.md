@@ -1,7 +1,7 @@
 <div class="profile-details">
   <h2 class="profile-name">Pratiksha Prabhakar</h2>
   <p class="profile-role">
-    M.Tech. Student, IEOR, IIT Delhi
+    M.Tech. (2024–26), IEOR, IIT Delhi
   </p>
 
   <p><strong>Thesis Topic:</strong><br>

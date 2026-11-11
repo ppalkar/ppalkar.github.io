@@ -42,7 +42,7 @@ profiles:
     content: apurv.md
     category: phd
     image_circular: false # crops the image to make it circular
-    email: apurvnegi1998@gmail.com
+    email: mez258050@iitd.ac.in
   - align: left
     image: avni.jpeg
     content: avni.md
@@ -58,9 +58,9 @@ profiles:
   - align: left
     image: nayan.jpeg
     content: nayan.md
-    category: msr
+    category: phd
     image_circular: false # crops the image to make it circular
-    email: mey247593@iitd.ac.in
+    email: mez247593@iitd.ac.in
   - align: right
     image: himanshu.jpg
     content: himanshu.md
@@ -87,6 +87,13 @@ past_profiles:
     content: aish.md
     image_circular: false # crops the image to make it circular
     email: mee242868@iitd.ac.in
+  - align: left
+    image: aayush.jpg
+    content: aayush.md
+    image_circular: false # crops the image to make it circular
+    emails:
+      - Aayush.samant@student.uq.edu.au
+      - qiz238691@iitd.ac.in
   - align: right
     image: shubhang.jpeg
     content: shubhang.md

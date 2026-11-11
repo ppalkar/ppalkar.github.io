@@ -1,7 +1,7 @@
 <div class="profile-details">
   <h2 class="profile-name">Nayan Das</h2>
   <p class="profile-role">
-    M.S.R. Student, IEOR, IIT Delhi
+    Research Scholar, IEOR, IIT Delhi
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
