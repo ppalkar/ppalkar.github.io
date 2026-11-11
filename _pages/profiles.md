@@ -87,6 +87,11 @@ past_profiles:
     content: aish.md
     image_circular: false # crops the image to make it circular
     email: mee242868@iitd.ac.in
+  - align: right
+    image: harshit.jpg
+    content: harshit.md
+    image_circular: false # crops the image to make it circular
+    email: guptaharshit442000@gmail.com
   - align: left
     image: aayush.jpg
     content: aayush.md
