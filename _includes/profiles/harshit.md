@@ -9,6 +9,10 @@
     Mathematical optimization of rake link and coaches for Indian Railways
   </p>
 
+  <p><strong>Research Interests:</strong><br>
+    Mathematical Optimization, Public Systems, Integer Programming
+  </p>
+
   <p><strong>Academic Background:</strong><br>
     B.Tech. Mechanical Engineering (B.I.E.T. Jhansi)
   </p>
