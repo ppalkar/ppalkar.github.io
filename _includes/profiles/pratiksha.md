@@ -1,7 +1,8 @@
 <div class="profile-details">
   <h2 class="profile-name">Pratiksha Prabhakar</h2>
   <p class="profile-role">
-    M.Tech. (2024–26), IEOR, IIT Delhi
+    M.Tech. (2024–26), IEOR, IIT Delhi<br>
+    Currently Business Analyst, <a href="https://www.linkedin.com/company/sca-technologies/" target="_blank">SCA Technologies</a>
   </p>
 
   <p><strong>Thesis Topic:</strong><br>
